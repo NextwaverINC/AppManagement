@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SQLS ID="" NAME="MESSENGER TABLE">
+	<Config NAME="VALUE">
+		<Column ID="1" NAME="@ID" VALUE="SaleID"/>
+		<Column ID="2" NAME="@Name" VALUE="SaleName"/>
+		<Column ID="3" NAME="@Address" VALUE="SaleAddress"/>
+		<Column ID="4" NAME="@Group" VALUE="SaleGroup"/>
+		<Column ID="5" NAME="@Status" VALUE="SaleStatus"/>
+		<Column ID="6" NAME="@TranID" VALUE="TranID"/>	
+	</Config>
+	<SQL ID="0" NAME="SELECT">
+		SELECT [SaleID]
+		,[SaleName]
+		,[SaleAddress]
+		,[SaleGroup]
+		,[SaleStatus]
+		,[TranID]
+		FROM [Sale]
+	</SQL>
+	<SQL ID="1" NAME="INSERT">
+		INSERT INTO [Sale]
+		([SaleID]
+		,[SaleName]
+		,[SaleAddress]
+		,[SaleGroup]
+		,[SaleStatus])
+		VALUES
+		(@ID
+		,'@Name'
+		,'@Address'
+		,'@Group'
+		,'@Status')	
+	</SQL>
+	<SQL ID="2" NAME="UPDATE">
+		UPDATE [Sale]
+		SET [SaleID] = @ID
+		,[SaleName] = '@Name'
+		,[SaleAddress] = '@Address'
+		,[SaleGroup] = '@Group'
+		,[SaleStatus] = '@Status'
+		WHERE [TranID] = @TranID
+	</SQL>
+	<SQL ID="3" NAME="DELETE">
+		DELETE FROM [Sale]
+		WHERE TranID = @TranID
+	</SQL>
+</SQLS>

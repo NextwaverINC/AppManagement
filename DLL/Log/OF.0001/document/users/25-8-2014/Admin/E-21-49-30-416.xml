@@ -1,0 +1,32 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>21-49-30-416</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>document</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>ไม่สามารถติดต่อฐานข้อมูลได้</ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="USERNAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PASSWORD" ColumnType="Varchar" Value="" />
+      <Item ColumnName="TITLE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="FIRSTNAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="LASTNAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="POSITION_CODE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="CREATE_DATE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="CREATE_BY" ColumnType="Varchar" Value="" />
+      <Item ColumnName="UPDATE_DATE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="UPDATE_BY" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[[contains(@@,'Admin')]]]></Where>
+    </Items>
+  </WhereData>
+</Log>

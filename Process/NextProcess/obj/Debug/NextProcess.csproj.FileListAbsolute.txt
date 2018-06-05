@@ -1,0 +1,16 @@
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\Config_Process.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\NextProcess.exe
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\NextProcess.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.frmProcess.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.Properties.Resources.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.csproj.GenerateResource.Cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.exe
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\ConnectServer.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\NextwaverDB.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\ConnectServer.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\NextwaverDB.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\NextProcess.exe.config
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\obj\Debug\NextProcess.frmWait.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Process\NextProcess\bin\Debug\EncryptDecrypt.dll

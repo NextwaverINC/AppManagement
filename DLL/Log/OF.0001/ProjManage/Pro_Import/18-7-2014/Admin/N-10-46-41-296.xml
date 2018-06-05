@@ -1,0 +1,29 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>10-46-41-296</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>ProjManage</ObjectId>
+  <ItemId>Pro_Import</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PRO_NAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PRO_TITLE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PRO_MANAGER" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PRO_STARTDATE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PRO_ENDDATE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="STATUS" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

@@ -1,0 +1,89 @@
+D:\Work\Management_ALL\Management_Main\DLL\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\DLL\frmMangements.pdb
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Work\Management_ALL\Management_Main\WEB\DLL\frmMangements.dll.config
+D:\Work\Management_ALL\Management_Main\WEB\DLL\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\WEB\DLL\frmMangements.pdb
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\frmMangements.dll.config
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\frmMangements.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\frmMangements.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+C:\Documents and Settings\Administrator\Desktop\Robot\DLL\frmMangements.dll.config
+C:\Documents and Settings\Administrator\Desktop\Robot\DLL\frmMangements.dll
+C:\Documents and Settings\Administrator\Desktop\Robot\DLL\frmMangements.pdb
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+C:\Documents and Settings\Administrator\Desktop\Robot\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Work\รวม Code Manament\Document\DLL\frmMangements.dll.config
+D:\Work\รวม Code Manament\Document\DLL\frmMangements.dll
+D:\Work\รวม Code Manament\Document\DLL\frmMangements.pdb
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\รวม Code Manament\Document\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\frmMangements.dll.config
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\frmMangements.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\frmMangements.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll.config
+D:\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll
+D:\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.pdb
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll.config
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.pdb
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+C:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.frmMain.resources
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.UserControl1.resources
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll.config
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.dll
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\DLL\frmMangements.pdb
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.dll
+D:\Data\Work\รวม Code Manament\กองทัพอากาศ\frmMangements version1.1\frmMangements\obj\Debug\frmMangements.pdb

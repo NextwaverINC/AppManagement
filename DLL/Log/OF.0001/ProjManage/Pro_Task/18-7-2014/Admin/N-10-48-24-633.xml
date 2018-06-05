@@ -1,0 +1,17 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>10-48-24-633</ID>
+  <Command>SelectAll</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>ProjManage</ObjectId>
+  <ItemId>Pro_Task</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

@@ -1,0 +1,78 @@
+D:\Work\Management_ALL\Managent_Document_New\DLL\DConfig.xml
+D:\Work\Management_ALL\Managent_Document_New\DLL\Document.pdb
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.pdb
+D:\Work\Management_ALL\Managent_Document_New\DLL\Document.dll
+D:\Work\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.dll
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\DConfig.xml
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\xmlDocumentDefault.xml
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\Document.exe.manifest
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\Document.application
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\Document.exe
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\DLL\Document.pdb
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.exe.manifest
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.application
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.exe
+D:\Work\Nextwaver\Management_ALL\Managent_Document_New\Document\Document\obj\Debug\Document.pdb
+C:\Documents and Settings\Administrator\Desktop\Document\DLL\Document.dll
+C:\Documents and Settings\Administrator\Desktop\Document\DLL\Document.pdb
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmAddItemData.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmDocument.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmEditItem.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmProfile.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmSection.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.frmViewXML.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.dll
+C:\Documents and Settings\Administrator\Desktop\Document\Document\Document\obj\Debug\Document.pdb
+D:\Work\รวม Code Manament\Document\DLL\Document.dll
+D:\Work\รวม Code Manament\Document\DLL\Document.pdb
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.dll
+D:\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.pdb
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.pdb
+D:\Data\Work\รวม Code Manament\Document\DLL\Document.pdb
+D:\Data\Work\รวม Code Manament\Document\DLL\Document.xml
+D:\Data\Work\รวม Code Manament\Document\DLL\Document.dll
+D:\Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.dll

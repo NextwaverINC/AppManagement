@@ -1,0 +1,17 @@
+<Log>
+  <UserName>system</UserName>
+  <ID>23-0-34-248</ID>
+  <Command>SelectAll</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>system</ObjectId>
+  <ItemId>position</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

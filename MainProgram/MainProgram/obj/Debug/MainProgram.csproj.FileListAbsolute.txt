@@ -1,0 +1,1743 @@
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\Areacode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\phoneCode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\word.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\Zipcode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\WorkProfile.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ADDRESS.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Soundex.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\LocationThailand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\office.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\GMap.NET.Core.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\BussinessList.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConfigTable.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\WorkProfile.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ADDRESS.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\LocationThailand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\office.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\BussinessList.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConfigTable.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Global.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Global.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\ClipboardPopup.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\ConfigLocationThailand.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\content.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\ConfigName.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\example.css
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\FindCompany.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\tabber.js
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\appointments.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\resources.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Scheduler.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Scheduler.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MD5 and SHA-1 Hashing.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\TaskCommand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\TaskCommand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Seminars.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Seminars.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Store\Template.xls
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Template.xls
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\AxInterop.GrFingerXLib.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DB.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Finger2009.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Interop.GrFingerXLib.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Password.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\USBToken2009.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Emgu.CV.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Emgu.CV.UI.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Emgu.Util.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\FaceRec.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainFactor.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ZedGraph.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\zlib.net.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\haarcascade_eye.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\AccessListsControl.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\AccessListsControl.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.UIStyle.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_eye.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XML_NGO\USBtoken.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\appointments.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\Areacode.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\ClipboardPopup.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\phoneCode.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\resources.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\word.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Template.xls
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Store\Template.xls
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_eye.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\XML_NGO\USBtoken.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\ConfigLocationThailand.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\content.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\example.css
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\FindCompany.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\ConfigName.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\tabber.js
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Config\Zipcode.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\haarcascade_eye.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\AccessListsControl.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\AxInterop.GrFingerXLib.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\DB.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Emgu.CV.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Emgu.CV.UI.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Emgu.Util.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\FaceRec.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Finger2009.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Interop.GrFingerXLib.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MainFactor.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Password.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Scheduler.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Seminars.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\USBToken2009.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.UIStyle.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ZedGraph.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\zlib.net.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Global.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Soundex.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\MD5 and SHA-1 Hashing.dll
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Global.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Seminars.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\AccessListsControl.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\bin\Debug\Scheduler.pdb
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\Management\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\appointments.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\Areacode.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\ClipboardPopup.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\phoneCode.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\resources.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\word.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Template.xls
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Store\Template.xls
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_eye.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\XML_NGO\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\XML_NGO\USBtoken.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\ConfigLocationThailand.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\content.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\example.css
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\FindCompany.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\ConfigName.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\tabber.js
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Config\Zipcode.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\haarcascade_eye.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\AccessListsControl.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\AxInterop.GrFingerXLib.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\DB.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Emgu.CV.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Emgu.CV.UI.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Emgu.Util.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\FaceRec.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Finger2009.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Interop.GrFingerXLib.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MainFactor.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Password.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Scheduler.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Seminars.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\USBToken2009.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ZedGraph.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\zlib.net.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Global.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Soundex.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\MD5 and SHA-1 Hashing.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Global.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Seminars.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\AccessListsControl.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Scheduler.pdb
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.dll
+D:\Data\Work\Management ORG\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.UIStyle.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\F46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F44\Management ORG\MainProgram\MainProgram\bin\Debug\F46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\F46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\F46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\body.htm
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46.xls
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Form46.xls
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46-Provider.xls
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\mailconfig.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\Subject.htm
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.cache
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.compiled
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Report1.rdlc
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46_Derive.xls
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46_Unit_Data.xls
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.dll
+D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\body.htm
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46_Unit_Data.xls
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46.xls
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Form46.xls
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46-Provider.xls
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Report1.rdlc
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\mailconfig.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\Subject.htm
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46_Derive.xls
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\office.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\office.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.cache
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.compiled
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Reference_Number.dll
+D:\Thanes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Reference_Number.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\body.htm
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46_Unit_Data.xls
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46.xls
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Form46.xls
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46-Provider.xls
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Report1.rdlc
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\mailconfig.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\Subject.htm
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46_Derive.xls
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Design.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Reference_Number.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\office.dll
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Excel_Project.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\F46.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\DMS.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ReconcileF46.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Survey46MailSenderAPI.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Reference_Number.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\PrintF46.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\Class_Library.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\ExcelF46.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\office.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.cache
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\RdlCompile.compiled
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\BOT\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\body.htm
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46_Unit_Data.xls
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46.xls
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Form46.xls
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46-Provider.xls
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Report1.rdlc
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\mailconfig.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\Subject.htm
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46_Derive.xls
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\WorkSpace.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\office.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Gobals.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\office.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Gobals.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\WorkSpace.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\RdlCompile.cache
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\RdlCompile.compiled
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlDiffPatch.View.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlDiffPatch.dll
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlDiffPatch.View.pdb
+D:\Thaes_Data\WorkSpace_app\Management\MainProgram\MainProgram\bin\Debug\XmlDiffPatch.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\body.htm
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46_Unit_Data.xls
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46.xls
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Form46.xls
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\F46-Provider.xls
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Report1.rdlc
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\mailconfig.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\XmlConfigTime-MailSendAuto\Subject.htm
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\TempFileExcel\Reconcile46_Derive.xls
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\RdlCompile.cache
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\RdlCompile.compiled
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\Management_Workspace_1.0\Management\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\NextwaverDB.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\NextwaverDB.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Users.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Users.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\TempDoc\Emp.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\TempDoc\Emp.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\group.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\task.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\user.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\NextwaverDB.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Users.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Document.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Users.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\NextwaverDB.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\EncryptDecrypt.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\Facebook.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\FBComment.exe
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Robot.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Robot.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Stop.png
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\Log.txt
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ACL.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\MainProgram\MainProgram\bin\Debug\ACL.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\Facebook.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\FBComment.exe
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\CommandLine\Log.txt
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Config\DefaultData.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\bar_chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\info2.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\line_chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\pie_chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Stop.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\app_chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\object.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\object.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\apply.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\info2.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\TempDoc\Emp.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Config.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\apply.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Business.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\calendar.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\edit.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Email.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\fax.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\group.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Project.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Simena.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\task.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\admin.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Business.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\Title\Document.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\user.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\UserType.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\admin.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\Business.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\documents.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Icon\WaterMark\document_2.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\file_new.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Image.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MConfig.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Theme.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.application
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ACL.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Document.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Message.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Robot.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Users.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Xceed.Grid.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Xceed.SmartUI.UIStyle.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.dll
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ACL.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ConnectServer.dll.config
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Document.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Document.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\frmMangements.dll.config
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Message.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Robot.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ToolCommand.dll.config
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\ToolsDocument.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\Users.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\bin\Debug\AppTest.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.TrustInfo.xml
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.application
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\MainProgram\MainProgram\obj\Debug\MainProgram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>10-46-53-318</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>ProjManage</ObjectId>
+  <ItemId>Pro_Task</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PROJECT" ColumnType="Varchar" Value="" />
+      <Item ColumnName="PARENTID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="NAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="TYPE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="LEADER" ColumnType="Varchar" Value="" />
+      <Item ColumnName="OWNERS" ColumnType="Varchar" Value="" />
+      <Item ColumnName="APPROVER" ColumnType="Varchar" Value="" />
+      <Item ColumnName="TASKDEVIDETYPE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="STARTPLAN" ColumnType="Varchar" Value="" />
+      <Item ColumnName="STOPPLAN" ColumnType="Varchar" Value="" />
+      <Item ColumnName="SCORE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="INPUT" ColumnType="Varchar" Value="" />
+      <Item ColumnName="OUTPUT" ColumnType="Varchar" Value="" />
+      <Item ColumnName="DESCRITION" ColumnType="Varchar" Value="" />
+      <Item ColumnName="FILEID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="STATUS" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[[contains(@OWNERS@,'Admin')]]]></Where>
+    </Items>
+  </WhereData>
+</Log>

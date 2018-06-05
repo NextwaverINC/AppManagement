@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<Mappings>
+		<Mapping Name="test" MangementID="Mangement2" ToolID="Tools2" ThemeID="Theme1" />
+	</Mappings>
+	<Mangements MID='2'>
+		<Mangement ID="Mangement1">
+			<Connection>
+				<Item Server="vaccine" Database="GPS" Login="sa" Password="sa" />
+			</Connection>
+			<Query>
+				<SQL ID="Main">select * from config</SQL>
+			</Query>
+			<Headers Title="ttt">
+				<Header Value="ttt" />
+			</Headers>
+			<Tools>
+				<Tool Type="B" Name="Detail" Visible="T" Tooltiptext="ซ่อน Detail Rows" Click="A" Image="3" />
+				<Tool Type="B" Name="Search" Visible="T" Tooltiptext="ซ่อน Tools Search" Click="B" Image="21" />
+				<Tool Type="B" Name="View" Visible="F" Tooltiptext="ซ่อน View Panel" Click="C" Image="0" />
+				<Tool Type="B" Name="first" Visible="T" Tooltiptext="ย้อนไปหลังสุด" Click="D" Image="13" />
+				<Tool Type="B" Name="preView" Visible="T" Tooltiptext="ย้อนกลับ" Click="E" Image="16" />
+				<Tool Type="B" Name="next" Visible="T" Tooltiptext="ถัดไป" Click="F" Image="15" />
+				<Tool Type="B" Name="last" Visible="T" Tooltiptext="ย้อนไปข้างหลังสุด" Click="G" Image="14" />
+				<Tool Type="S" Name="spriter" Visible="T" />
+			</Tools>
+			<Table>
+				<Column Name="ConfigID" Text="ConfigID" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+				<Column Name="ConfigName" Text="ConfigName" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+				<Column Name="Data_XML" Text="Data_XML" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+			</Table>
+			<DetailRow>
+				<Row ColumnName="ConfigID" Text="ConfigID" Visible="T" />
+				<Row ColumnName="ConfigName" Text="ConfigName" Visible="T" />
+				<Row ColumnName="Data_XML" Text="Data_XML" Visible="T" />
+			</DetailRow>
+			<Searchs>
+				<Search ID="0" FiledName="" Text="" Type="STR" />
+				<Search ID="1" FiledName="ConfigID" Text="ConfigID" Type="STR" />
+				<Search ID="2" FiledName="ConfigName" Text="ConfigName" Type="STR" />
+				<Search ID="3" FiledName="Data_XML" Text="Data_XML" Type="STR" />
+			</Searchs>
+		</Mangement>
+		<Mangement ID="Mangement2">
+			<Connection>
+				<Item Server="vaccine" Database="GPS" Login="sa" Password="sa" />
+			</Connection>
+			<Query>
+				<SQL ID="Main">select * from config</SQL>
+			</Query>
+			<Headers Title="ttt">
+				<Header Value="ttt" />
+			</Headers>
+			<Tools>
+				<Tool Type="B" Name="Detail" Visible="T" Tooltiptext="ซ่อน Detail Rows" Click="A" Image="3" />
+				<Tool Type="B" Name="Search" Visible="T" Tooltiptext="ซ่อน Tools Search" Click="B" Image="21" />
+				<Tool Type="B" Name="View" Visible="F" Tooltiptext="ซ่อน View Panel" Click="C" Image="0" />
+				<Tool Type="B" Name="first" Visible="T" Tooltiptext="ย้อนไปหลังสุด" Click="D" Image="13" />
+				<Tool Type="B" Name="preView" Visible="T" Tooltiptext="ย้อนกลับ" Click="E" Image="16" />
+				<Tool Type="B" Name="next" Visible="T" Tooltiptext="ถัดไป" Click="F" Image="15" />
+				<Tool Type="B" Name="last" Visible="T" Tooltiptext="ย้อนไปข้างหลังสุด" Click="G" Image="14" />
+				<Tool Type="S" Name="spriter" Visible="T" />
+			</Tools>
+			<Table>
+				<Column Name="ConfigID" Text="ConfigID" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+				<Column Name="ConfigName" Text="ConfigName" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+				<Column Name="Data_XML" Text="Data_XML" Width="30" Format="xxx" Visible="T" DataAlign="D" ColumnAlign="D" />
+			</Table>
+			<DetailRow>
+				<Row ColumnName="ConfigID" Text="ConfigID" Visible="T" />
+				<Row ColumnName="ConfigName" Text="ConfigName" Visible="T" />
+				<Row ColumnName="Data_XML" Text="Data_XML" Visible="T" />
+			</DetailRow>
+			<Searchs>
+				<Search ID="0" FiledName="" Text="" Type="STR" />
+				<Search ID="1" FiledName="ConfigID" Text="ConfigID" Type="STR" />
+				<Search ID="2" FiledName="ConfigName" Text="ConfigName" Type="STR" />
+				<Search ID="3" FiledName="Data_XML" Text="Data_XML" Type="STR" />
+			</Searchs>
+		</Mangement>
+	</Mangements>
+	<Tools MID='1'>
+		<Tool ID="Tools1">
+			<Item Name="Test" Visible="T" DisplayStyle="IAT" Text="text" Tooltiptext="text" Click="1" Image=""></Item>
+			<Item Name="Test" Visible="T" DisplayStyle="IAT" Text="text" Tooltiptext="text" Click="1" Image="">
+				<Item Name="Test" Visible="T" DisplayStyle="IAT" Text="text" Tooltiptext="text" Click="1" Image="" />
+			</Item>
+		</Tool>
+		<Tool ID="Tools2">
+			<Item Name="tttt" Visible="T" DisplayStyle="TEX" Text="tt" Tooltiptext="tt" Click="2" Image=""></Item>
+		</Tool>
+	</Tools>
+	<Themes>
+		<Theme ID="Theme1" Detail="">
+			<Header>
+				<Blackground Type="1">44,96,120</Blackground>
+				<Title Type="2">Control</Title>
+			</Header>
+			<Search>
+				<Blackground Type="1">180,211,211</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="1">218,235,242</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="1">218,235,242</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="1">218,235,242</Blackground>
+				<Row1 Type="1">218,235,242</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="1">218,235,242</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme2" Detail="">
+			<Header>
+				<Blackground Type="1">255, 192, 192</Blackground>
+				<Title Type="1">0, 0, 192</Title>
+			</Header>
+			<Search>
+				<Blackground Type="1">255, 224, 192</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="1">255, 192, 192</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="1">255, 192, 192</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="1">255, 192, 192</Blackground>
+				<Row1 Type="1">255, 192, 128</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="1">255, 224, 192</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme3" Detail="">
+			<Header>
+				<Blackground Type="1">192, 255, 192</Blackground>
+				<Title Type="1">0, 0, 192</Title>
+			</Header>
+			<Search>
+				<Blackground Type="2">PaleTurquoise</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="1">192, 255, 192</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="1">192, 255, 192</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="1">192, 255, 192</Blackground>
+				<Row1 Type="1">192, 255, 255</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="1">192, 255, 192</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme4" Detail="">
+			<Header>
+				<Blackground Type="2">Khaki</Blackground>
+				<Title Type="2">SaddleBRown</Title>
+			</Header>
+			<Search>
+				<Blackground Type="2">PaleGoldenrod</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="2">Khaki</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="2">Khaki</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="2">Khaki</Blackground>
+				<Row1 Type="2">PaleGoldenrod</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="2">Khaki</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme5" Detail="">
+			<Header>
+				<Blackground Type="2">DarkGray</Blackground>
+				<Title Type="2">ControlText</Title>
+			</Header>
+			<Search>
+				<Blackground Type="2">Control</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="2">DarkGray</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="2">DarkGray</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="2">DarkGray</Blackground>
+				<Row1 Type="2">Control</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="2">DarkGray</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme6" Detail="">
+			<Header>
+				<Blackground Type="2">LightSlateGray</Blackground>
+				<Title Type="2">White</Title>
+			</Header>
+			<Search>
+				<Blackground Type="1">192, 192, 255</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="2">Control</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="2">LightSlateGray</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="2">LightSlateGray</Blackground>
+				<Row1 Type="1">192, 192, 255</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="2">Control</Blackground>
+			</Tool_FOOT>
+		</Theme>
+		<Theme ID="Theme7" Detail="">
+			<Header>
+				<Blackground Type="1">128,64,0</Blackground>
+				<Title Type="2">Linen</Title>
+			</Header>
+			<Search>
+				<Blackground Type="1">255,192,128</Blackground>
+			</Search>
+			<Tool>
+				<Blackground Type="2">PeachPuff</Blackground>
+			</Tool>
+			<Data>
+				<Blackground Type="1">255,192,128</Blackground>
+			</Data>
+			<Data>
+				<Blackground Type="2">PeachPuff</Blackground>
+				<Row1 Type="2">PeachPuff</Row1>
+				<Row2 Type="2">Window</Row2>
+			</Data>
+			<Tool_FOOT>
+				<Blackground Type="2">PeachPuff</Blackground>
+			</Tool_FOOT>
+		</Theme>
+	</Themes>
+</Config>

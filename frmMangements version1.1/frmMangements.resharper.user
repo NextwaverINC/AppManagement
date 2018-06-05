@@ -1,0 +1,62 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:EditorHollow.IEditor">
+      <Item value="Edit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSScriptLibrary.AsmHelper">
+      <Item value="Invoke" priority="1" />
+      <Item value="InvokeInst" priority="0" />
+      <Item value="CreateObject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxDefaultButton">
+      <Item value="Button1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxOptions">
+      <Item value="DefaultDesktopOnly" priority="0" />
+      <Item value="ServiceNotification" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Information" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:frmMangements.IEditor">
+      <Item value="Edit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:object">
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <EditorManager>
+    <RecentFiles>
+      <File id="503896EC-75F8-4F1C-8BB9-004D4CC60FF6/f:frmEdit.Designer.cs" caret="558" scrollPosition="0|16" />
+      <File id="503896EC-75F8-4F1C-8BB9-004D4CC60FF6/f:ConfigTable.xml" caret="105" scrollPosition="0|0" />
+      <File id="C828E8B9-5F5E-422D-A972-F237F171F708/f:EditorInterface.cs" caret="0" scrollPosition="0|0" />
+      <File id="503896EC-75F8-4F1C-8BB9-004D4CC60FF6/f:frmMangements.cs" caret="1880" scrollPosition="0|44" />
+      <File id="35B77EDA-48DA-41C6-A614-206FF7925D16/f:EditorA.cs" caret="530" scrollPosition="0|0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <ReorderMembers>False</ReorderMembers>
+    <OptimizeUsings>False</OptimizeUsings>
+    <RemoveRedundantThis>False</RemoveRedundantThis>
+    <ShortenReferences>False</ShortenReferences>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

@@ -1,0 +1,38 @@
+﻿<DOCUMENT ID="1" NAME="FUNCTION SPECTS">
+	<DATA>
+		<SECTIONS>
+			<SECTION ID="1" NAME="PdaID" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="2" NAME="PdaName" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="3" NAME="PdaSpec" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="4" NAME="PdaBrand" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="5" NAME="PdaStatus" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="6" NAME="LastUpdate" TYPE="2">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="7" NAME="MessagerRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="8" NAME="TrackRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>			
+		</SECTIONS>
+	</DATA>
+	<CONTROLS>
+		<TYPES>
+			<TYPE ID="0" NAME="TEXTBOX"/>
+			<TYPE ID="1" NAME="RICHTEXTBOX"/>
+			<TYPE ID="2" NAME="DATETIMEPICKER"/>
+			<TYPE ID="3" NAME="GRIDCONTROL"/>
+		</TYPES>
+	</CONTROLS>
+</DOCUMENT>

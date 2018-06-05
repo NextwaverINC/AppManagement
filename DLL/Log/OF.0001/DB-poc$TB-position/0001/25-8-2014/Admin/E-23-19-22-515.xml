@@ -1,0 +1,16 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>23-19-22-515</ID>
+  <Command>SaveDocument</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>DB-poc$TB-position</ObjectId>
+  <ItemId>0001</ItemId>
+  <ErrorMessage>File Sending fail.No connection could be made because the target machine actively refused it 192.168.1.37:5001</ErrorMessage>
+  <Data>
+    <!--<Document ID="1" Name="Table"><Data><Section ID="poc" Name=""><Items ID="position" Name=""><Means MaxID="7"><Mean ID="ID" Name="ID" Detail="" Type="Auto" /><Mean ID="C01" Name="POSITION_CODE" Detail="" Type="varchar" /><Mean ID="C02" Name="POSITION_NAME" Detail="" Type="varchar" /><Mean ID="C03" Name="PARENT_CODE" Detail="" Type="varchar" /><Mean ID="C04" Name="CREATE_DATE" Detail="" Type="varchar" /><Mean ID="C05" Name="CREATE_BY" Detail="" Type="varchar" /><Mean ID="C06" Name="UPDATE_DATE" Detail="" Type="varchar" /><Mean ID="C07" Name="UPDATE_BY" Detail="" Type="varchar" /></Means><Item ID="1" C01="001" C02="Administrator" C03="" C04="28/01/2014" C05="Admin" C06="25/08/2557" C07="Admin" /></Items></Section></Data></Document>-->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

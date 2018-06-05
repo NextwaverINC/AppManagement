@@ -1,0 +1,16 @@
+<Log>
+  <UserName>abc</UserName>
+  <ID>22-11-30-413</ID>
+  <Command>SelectAll</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>desktop</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>ไม่พบชื่อตารางที่ระบุ</ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

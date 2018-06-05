@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MAPPINGS NAME="SALE">
+	<MAPPING ID="1" COLUMN="SaleID" SECTION="1"/>
+	<MAPPING ID="2" COLUMN="SaleName" SECTION="2"/>
+	<MAPPING ID="3" COLUMN="SaleAddress" SECTION="3"/>
+	<MAPPING ID="4" COLUMN="SaleGroup" SECTION="4"/>
+	<MAPPING ID="5" COLUMN="SaleStatus" SECTION="5"/>
+</MAPPINGS>

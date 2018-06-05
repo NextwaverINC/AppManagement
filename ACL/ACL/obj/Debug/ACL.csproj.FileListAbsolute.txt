@@ -1,0 +1,15 @@
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\ACL.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ACL.frmACL.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ACL.Properties.Resources.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ACL.csproj.GenerateResource.Cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ACL.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\ConnectServer.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\NextwaverDB.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\EncryptDecrypt.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\ConnectServer.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\NextwaverDB.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\bin\Debug\ACL.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\ACL\ACL\obj\Debug\ACL.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\ACL\ACL.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\ACL\ACL.pdb

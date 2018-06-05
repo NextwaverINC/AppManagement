@@ -1,0 +1,11 @@
+<Log>
+  <ID>14-50-52-98</ID>
+  <Command>SelectAll</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>desktop</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>ไม่สามารถติดต่อฐานข้อมูลได้</ErrorMessage>
+  <Data><![CDATA[]]></Data>
+  <ColumnData><![CDATA[]]></ColumnData>
+  <WhereData><![CDATA[]]></WhereData>
+</Log>

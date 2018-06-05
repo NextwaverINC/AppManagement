@@ -1,0 +1,7 @@
+D:\Thaes_Data\WorkSpace_app\Management_V1\Test\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\Test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Test\WindowsFormsApplication1.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Test\WindowsFormsApplication1.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\Test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\Test\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

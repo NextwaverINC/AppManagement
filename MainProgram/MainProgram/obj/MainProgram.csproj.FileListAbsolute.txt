@@ -1,0 +1,456 @@
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\WaterMark\logosipa5.png
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MANGE_USER.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\SAVE_ADD_READ_FILE.dll
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\MANGE_USER.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Work\Management_ALL\Management_Main\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MANGE_USER.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\SAVE_ADD_READ_FILE.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MANGE_USER.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Work\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Control Version.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\SAVE_ADD_READ_FILE.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\MD5 and SHA-1 Hashing.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Control Version.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Editors.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Grid.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.UI.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Xceed.Validation.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ACL.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.Editors.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.Grid.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.UI.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.Validation.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\SAVE_ADD_READ_FILE.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ACL.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Icon\FauxS.ico
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\configMenu.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-half.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-off.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\sy-star-on.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Image.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\add.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\applications.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\arrow_down.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\Clipboard.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\close.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\confirm.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\data_down.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\data_new.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\edit.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\export.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\help.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\home.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\id_card_delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\igic.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\key1_preferences.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\LOCK.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_firsts.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_last.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_next.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\move_preview.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_add.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_delete.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_edit.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_find.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_new.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_pinned.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\note_view.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\pie-chart.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\presentation_chart.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\print.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\print_preview.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\save.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\save_all.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\search.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\shield_preferences.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\web.png
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\IMAGES\web_downloads.gif
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MConfig.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Theme.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XMLSQL.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe.config
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe.manifest
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.application
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.exe
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\MainProgram.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ACL.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Boot.UI.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConnectServer.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ControlDocument.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DATABASE.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DigitalSignature.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Framework.Controls.ProgressBar.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\frmMangements.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Message.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Query.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ToolCommand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Validation.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.Grid.Design.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\XPExplorerBar.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Xceed.Grid.UIStyle.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\FileManager.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\SAVE_ADD_READ_FILE.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Member.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\CreateConfigMangement.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Validation.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConnectServer.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ControlDocument.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ACL.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\FileManager.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\DigitalSignature.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ToolCommand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Message.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Query.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\frmMangements.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Member.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.frmLogin.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.frmMenu.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.exe.manifest
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.application
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.exe
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\obj\Debug\MainProgram.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ADDRESS.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Soundex.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\BussinessList.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConfigTable.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ADDRESS.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\BussinessList.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\ConfigTable.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\word.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\Areacode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\phoneCode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\Config\Zipcode.xml
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\GMap.NET.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\WorkProfile.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\LocationThailand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\WorkProfile.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram\bin\Debug\LocationThailand.pdb

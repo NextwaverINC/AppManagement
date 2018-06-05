@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configs>
+	<Config ID="0" Name="Code">
+		<Item ID="1" Name="Login" Value="T" />
+		<Item ID="2" Name="StoreProceder" Value="Create">
+			set ANSI_NULLS ON
+			set QUOTED_IDENTIFIER ON
+			go
+
+			-- =============================================
+			-- Author:		LOGIN
+			-- Create date: 10 สิงหาคม 2007
+			-- Description:	เช็ค User Password จาก DB
+			-- =============================================
+			/*
+			declare @oStr char(1)
+			declare @Message varchar(50)
+			exec spl_Login 'vaccine4','virus1',@oStr output,@Message output
+			select @oStr,@Message
+			*/
+			CREATE PROCEDURE [dbo].[spl_Login]
+			@UserName varchar(50),
+			@Password varchar(50),
+			@oStr char(1) output,
+			@Message varchar(50) output,
+			@Position char(1) output
+			AS
+			BEGIN
+			-- SET NOCOUNT ON added to prevent extra result sets from
+			-- interfering with SELECT statements.
+			SET NOCOUNT ON;
+			declare @User varchar(50)
+			declare @Pass varchar(50)
+			declare @Enable char(1)
+			select	@User = [UserID],
+			@Pass = [UserPassword],
+			@Position = [UserType],
+			@Enable = [Enable]
+			from [User] where [UserID] = @UserName
+
+			IF @Enable = 'T'
+			begin
+			IF @User is null
+			begin
+			set @oStr = '0'
+			set @Message = 'UserName ที่ระบุไม่ถูกต้อง'
+			end
+			ELSE
+			begin
+			IF @Pass = @Password
+			begin
+			set @oStr = '1'
+			set @Message = 'UserName และ Password ถูกต้อง'
+			end
+			ELSE
+			begin
+			set @oStr = '2'
+			set @Message = 'Password ไม่ถูกต้อง'
+			end
+			end
+			end
+			ELSE
+			begin
+			IF @Enable = 'F'
+			begin
+			set @oStr = '2'
+			set @Message = 'คุณไม่มีสิทธิ์ใช้โปรแกรมนี้แล้วกรุณาติดต่อ Admin'
+			end
+			end
+			END
+		</Item>
+		<Item ID="3" Name="UserTable" Value="Create">
+			GO
+			/****** Object:  Table [dbo].[User]    Script Date: 02/08/2008 15:25:13 ******/
+			SET ANSI_NULLS ON
+			GO
+			SET QUOTED_IDENTIFIER ON
+			GO
+			SET ANSI_PADDING ON
+			GO
+			CREATE TABLE [dbo].[User](
+			[UserID] [varchar](50) COLLATE Thai_CI_AS NOT NULL,
+			[UserPassword] [varchar](50) COLLATE Thai_CI_AS NOT NULL,
+			[UserType] [char](1) COLLATE Thai_CI_AS NULL,
+			[Enable] [char](1) COLLATE Thai_CI_AS NULL,
+			CONSTRAINT [PK_User_1] PRIMARY KEY CLUSTERED
+			(
+			[UserID] ASC
+			)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+			) ON [PRIMARY]
+			GO
+			SET ANSI_PADDING OFF
+		</Item>
+	</Config>
+	<Config ID="1" Name="FormatString">
+		<Item ID="1" Name="Default" Value="xxx" />
+		<Item ID="2" Name="DateTime" Value="d" />
+		<Item ID="3" Name="Number" Value="n" />
+		<Item ID="4" Name="Double" Value="#,##0.00" />
+		<Item ID="5" Name="Double" Value="#,##0.0000" />
+	</Config>
+	<Config ID="2" Name="Align">
+		<Item ID="1" Name="Default" Value="D" />
+		<Item ID="2" Name="Left" Value="L" />
+		<Item ID="3" Name="Rigth" Value="R" />
+		<Item ID="4" Name="Center" Value="C" />
+	</Config>
+	<Config ID="3" Name="TypeData">
+		<Item ID="1" Name="String" Value="STR" />
+		<Item ID="2" Name="Intiger" Value="INT" />
+		<Item ID="3" Name="Double" Value="DBL" />
+		<Item ID="4" Name="DateTime" Value="DATE" />
+	</Config>
+	<Config ID="4" Name="TypeData">
+		<Item ID="1" Name="" Value="Theme1" />
+		<Item ID="2" Name="" Value="Theme2" />
+		<Item ID="3" Name="" Value="Theme3" />
+		<Item ID="4" Name="" Value="Theme4" />
+		<Item ID="4" Name="" Value="Theme5" />
+		<Item ID="4" Name="" Value="Theme6" />
+		<Item ID="4" Name="" Value="Theme7" />
+	</Config>
+	<Config ID="5" Name="DispalyStyle">
+		<Item ID="1" Name="None" Value="NON" />
+		<Item ID="2" Name="Text" Value="TEX" />
+		<Item ID="3" Name="Image" Value="IMG" />
+		<Item ID="4" Name="ImageAndText" Value="IAT" />
+	</Config>
+	<Config ID="6" Name="TypeToolScript">
+		<Item ID="1" Name="ToolStripButton" Value="SB" />
+		<Item ID="2" Name="ToolStripDropDownButton" Value="SD" />
+		<Item ID="3" Name="ToolStripSeparator" Value="SS" />
+		<Item ID="4" Name="ToolStripLabel" Value="SL" />
+	</Config>
+	<Config ID="7" Name="UserRow">
+		<Item ID="1" Name="Super Admin" Value="A" />
+		<Item ID="2" Name="Admin" Value="E" />
+	</Config>
+	<Config ID="8" Name="Validation">
+		<Item ID="1" Name="BUS_TYPE" Value="T"/>
+		<Item ID="2" Name="BUS_TYPE_DETAIL" Value="T"/>
+		<Item ID="3" Name="COMPANY_NAME" Value="T"/>
+		<Item ID="4" Name="HOMECODE" Value="T"/>
+		<Item ID="5" Name="FLOOR" Value="T"/>
+		<Item ID="6" Name="PREMISE_NAME" Value="T"/>
+		<Item ID="7" Name="SOI" Value="T"/>
+		<Item ID="8" Name="ROAD" Value="T"/>
+		<Item ID="9" Name="DISTRICT" Value="T"/>
+		<Item ID="10" Name="AREA" Value="T"/>
+		<Item ID="11" Name="PROVINCE" Value="T"/>
+		<Item ID="12" Name="ZIPCODE" Value="T"/>
+		<Item ID="13" Name="PHONE" Value="T"/>
+		<Item ID="14" Name="EMAIL" Value="T"/>
+	</Config>
+	<Config ID="9" Name="Provider">
+		<Item Id="1"  Name="SQL"  Text="Microsoft SQL Server" Type="DBServe">
+			<new name="Provider"  value="SQLOLEDB"/>
+			<add  name="Initial Catalog" value="?"/>
+		</Item>
+		<Item Id="2" Name="ORACLE" Text="ORACLE" Type="DBServe">
+			<new name="Provider"  value="MSDAORA"/>
+		</Item>
+		<Item Id="3" Name="MySQL" Text="MySQL" Type="DBServe">
+			<new name="Provider" value="MySQLProv"/>
+		</Item>
+		<Item id="4" Name="Postgre" Text="Postgre" Type="DBServe">
+			<new name="Provider" value="Ifxoledbc.2"/>
+			<add  name="Persist Security Info" value="true"/>
+		</Item>
+		<Item id="5" Name="Excel12" Text="Excel 2007" Type="FileServe">
+			<new  name="Provider" value="Microsoft.ACE.OLEDB.12.0"/>
+			<add   name="Extended Properties" value="Excel 12.0"/>
+			<add   name="HDR"  value="YES"/>
+		</Item>
+		<Item id="6" Name="Excel" Text="Excel" Type="FileServe">
+			<new  name="Provider" value="Microsoft.Jet.OLEDB.4.0;"/>
+			<add   name="Extended Properties" value="Excel 8.0"/>
+			<add   name="HDR"  value="YES"/>
+			<add   name="IMEX" value="1"/>
+		</Item>
+		<Item id="7" Name="Access2007" Text="Access 2007" Type="FileServe">
+			<new  name="Provider" value="Microsoft.ACE.OLEDB.12.0"/>
+			<add    name="Persist Security Info" vlaue="False"/>
+		</Item>
+		<Item id="8" Name="Access" Text="Access" Type="FileServe">
+			<new  name="Provider" value="Microsoft.Jet.OLEDB.4.0"/>
+			<new  name="User Id" value="admin"/>
+			<add name="Password" value=""/>
+		</Item>
+	</Config>
+  <Config ID="10" Name="Status">
+    <Item Name="0,null" Value="0"/>
+    <Item Name="1" Value="1"/>
+    <Item Name="2" Value="2"/>
+    <Item Name="3" Value="3"/>
+    <Item Name="4" Value="4"/>
+    <Item Name="5" Value="5"/>
+  </Config>
+</Configs>

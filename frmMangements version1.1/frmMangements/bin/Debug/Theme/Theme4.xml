@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<THEME>
+	<HEADER>
+		<BLACKGROUND TYPE="2">Khaki</BLACKGROUND>
+		<TEXT1 TYPE="2">SaddleBrown</TEXT1>
+		<TEXT2 TYPE="2">SaddleBrown</TEXT2>
+	</HEADER>
+	<SEARCH>
+		<BLACKGROUND TYPE="2">PaleGoldenrod</BLACKGROUND>
+	</SEARCH>
+	<TOOL>
+		<BLACKGROUND TYPE="2">Khaki</BLACKGROUND>
+	</TOOL>
+	<DATA>
+		<BLACKGROUND TYPE="2">Khaki</BLACKGROUND>
+	</DATA>
+	<DETAIL_DATA>
+		<BLACKGROUND TYPE="2">Khaki</BLACKGROUND>
+		<ROW1 TYPE="2">PaleGoldenrod</ROW1>
+		<ROW2 TYPE="2">Window</ROW2>
+	</DETAIL_DATA>
+	<TOOL_FOOT>
+		<BLACKGROUND TYPE="2">Khaki</BLACKGROUND>
+	</TOOL_FOOT>
+</THEME>

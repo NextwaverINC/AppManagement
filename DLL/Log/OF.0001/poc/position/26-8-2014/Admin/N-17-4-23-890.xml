@@ -1,0 +1,17 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>17-4-23-890</ID>
+  <Command>SelectLastDocument</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>poc</ObjectId>
+  <ItemId>position</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

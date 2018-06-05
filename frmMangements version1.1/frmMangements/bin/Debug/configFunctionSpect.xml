@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configs NAME="">
+	<config ID="1" TABLE="VIEW" VISIBLE="F"/>
+	<config ID="2" TABLE="SAVE" FILE="F"/>
+	<config ID="3" TABLE="LOAD" VISIBLE="F"/>
+	<config ID="4" TABLE="SIZE" WIDTH="400" HEIGHT="500" BORDERSTYLE="6" STATE="" NAME="">
+		<BORDERSTYLE NAME="">
+			<STYLE ID="1" TABLE="None"/>
+			<STYLE ID="2" TABLE="FixedSingle"/>
+			<STYLE ID="3" TABLE="Fixed3D"/>
+			<STYLE ID="4" TABLE="FixedDialog"/>
+			<STYLE ID="5" TABLE="Sizable"/>
+			<STYLE ID="6" TABLE="FixedToolWindow"/>
+			<STYLE ID="7" TABLE="SizableToolWindow"/>
+			<STYLE ID="Other" TABLE="Defult"/>
+		</BORDERSTYLE>
+		<STATES>
+			<STATE ID="1" TABLE="Maximized"/>
+			<STATE ID="2" TABLE="Minimized"/>
+			<STATE ID="3" TABLE="Normal"/>
+			<STATE ID="Other" TABLE="Defult"/>
+		</STATES>
+	</config>
+</Configs>

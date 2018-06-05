@@ -1,0 +1,79 @@
+﻿<Images>
+	<Image ID="0" Text="NULL" Path="" />
+	<Image ID="1" Text="" Path="Images/add.png" />
+	<Image ID="2" Text="" Path="Images/applications.gif" />
+	<Image ID="3" Text="" Path="Images/arrow_down.png" />
+	<Image ID="4" Text="" Path="Images/close.png" />
+	<Image ID="5" Text="" Path="Images/confirm.png" />
+	<Image ID="6" Text="" Path="Images/delete.png" />
+	<Image ID="7" Text="" Path="Images/edit.png" />
+	<Image ID="8" Text="" Path="Images/export.png" />
+	<Image ID="9" Text="" Path="Images/help.gif" />
+	<Image ID="10" Text="" Path="Images/home.gif" />
+	<Image ID="11" Text="" Path="Images/igic.png" />
+	<Image ID="12" Text="" Path="Images/lock.PNG" />
+	<Image ID="13" Text="" Path="Images/move_firsts.png" />
+	<Image ID="14" Text="" Path="Images/move_last.png" />
+	<Image ID="15" Text="" Path="Images/move_next.png" />
+	<Image ID="16" Text="" Path="Images/move_preview.png" />
+	<Image ID="17" Text="" Path="Images/print.gif" />
+	<Image ID="18" Text="" Path="Images/print_preview.gif" />
+	<Image ID="19" Text="" Path="Images/save.png" />
+	<Image ID="20" Text="" Path="Images/save_all.gif" />
+	<Image ID="21" Text="" Path="Images/search.png" />
+	<Image ID="22" Text="" Path="Images/web.png" />
+	<Image ID="23" Text="" Path="Images/web_downloads.gif" />
+	<Image ID="24" Text="" Path="Images/note.png" />
+	<Image ID="25" Text="" Path="Images/note_add.png" />
+	<Image ID="26" Text="" Path="Images/note_delete.png" />
+	<Image ID="27" Text="" Path="Images/note_edit.png" />
+	<Image ID="28" Text="" Path="Images/note_find.png" />
+	<Image ID="29" Text="" Path="Images/note_new.png" />
+	<Image ID="30" Text="" Path="Images/note_pinned.png" />
+	<Image ID="31" Text="" Path="Images/note_view.png" />
+	<Image ID="32" Text="" Path="Images/data_new.png" />
+	<Image ID="33" Text="" Path="Images/data_down.png"/>
+	<Image ID="34" Text="" Path="Images/presentation_chart.png"/>
+	<Image ID="35" Text="" Path="Images/pie-chart.png"/>
+	<Image ID="36" Text="" Path="Images/key1_preferences.png"/>
+	<Image ID="37" Text="" Path="Images/shield_preferences.png"/>
+	<Image ID="38" Text="" Path="Images/id_card_delete.png"/>
+
+	<Image ID="39" Text="ผู้ใช้งานระบบ" Path="Icon/user.png"/>
+	<Image ID="40" Text="ประเภทผู้ใช้งาน" Path="Icon/UserType.png"/>
+	<Image ID="41" Text="กลุ่มผู้ใช้งาน" Path="Icon/group.png"/>
+	<Image ID="42" Text="ACL" Path="Icon/apply.png"/>
+
+	<Image ID="43" Text="Business" Path="Icon/Business.png"/>
+	<Image ID="44" Text="calendar" Path="Icon/calendar.png"/>
+	<Image ID="45" Text="Project" Path="Icon/Project.png"/>
+	<Image ID="46" Text="task" Path="Icon/task.png"/>
+	<Image ID="47" Text="Simena" Path="Icon/Simena.png"/>
+
+	<Image ID="48" Text="System Admin" Path="Icon/Title/admin.png"/>
+	<Image ID="49" Text="Business" Path="Icon/Title/Business.png"/>
+
+	<Image ID="51" Text="System Admin WaterMark" Path="Icon/WaterMark/admin.png"/>
+	<Image ID="52" Text="Business WaterMark" Path="Icon/WaterMark/Business.png"/>
+
+	<Image ID="53" Text="Fax" Path="Icon/fax.png"/>
+	<Image ID="54" Text="Email" Path="Icon/Email.png"/>
+
+	<Image ID="55" Text="Document" Path="Icon/Title/Document.png"/>
+	<Image ID="56" Text="Document" Path="Icon/WaterMark/documents.png"/>
+	<Image ID="57" Text="Document" Path="Icon/WaterMark/document_2.png"/>
+
+	<Image ID="58" Text="กลุ่มผู้ใช้งาน" Path="Icon/edit.png"/>
+	<Image ID="59" Text="" Path="Images/file_new.png"/>
+
+	<Image ID="60" Text="" Path="Images/apply.png"/>
+	<Image ID="61" Text="" Path="Images/data.png"/>
+	<Image ID="62" Text="" Path="Images/info2.png"/>
+	<Image ID="63" Text="" Path="Icon/info2.png"/>
+	<Image ID="64" Text="Report" Path="Icon/Title/object.png"/>
+	<Image ID="65" Text="Report WaterMark" Path="Icon/WaterMark/object.png"/>
+	<Image ID="66" Text="bar_chart" Path="Icon/bar_chart.png"/>
+	<Image ID="67" Text="line_chart" Path="Icon/line_chart.png"/>
+	<Image ID="68" Text="pie_chart" Path="Icon/pie_chart.png"/>
+  <Image ID="69" Text="Stop" Path="Icon/Stop.png"/>
+</Images>

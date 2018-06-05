@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SQLS ID="" NAME="MESSENGER TABLE">
+	<Config NAME="VALUE">
+		<Column ID="1" NAME="@ID" VALUE="TaskID"/>
+		<Column ID="2" NAME="@Name" VALUE="TaskName"/>
+		<Column ID="3" NAME="@Date" VALUE="TaskDate"/>
+		<Column ID="4" NAME="@Group" VALUE="TaskGroup"/>
+		<Column ID="5" NAME="@Type" VALUE="TaskType"/>
+		<Column ID="6" NAME="@Status" VALUE="TaskSTatus"/>
+		<Column ID="7" NAME="@MessengerRef" VALUE="MessengerRef"/>
+		<Column ID="8" NAME="@CustomerRef" VALUE="CustomerRef"/>
+		<Column ID="9" NAME="@SaleProductRef" VALUE="SaleProductRef"/>
+		<Column ID="10" NAME="@ProductRef" VALUE="ProductRef"/>
+		<Column ID="11" NAME="@Cost" VALUE="TotalCost"/>
+		<Column ID="12" NAME="@Paid" VALUE="TatalPaid"/>
+		<Column ID="13" NAME="@Signature" VALUE="Signature"/>
+		<Column ID="14" NAME="@LocationRef" VALUE="LocationRef"/>
+		<Column ID="15" NAME="@LastUpdate" VALUE="LastUpdate"/>
+		<Column ID="15" NAME="@TranID" VALUE="TranID"/>
+	</Config>
+	<SQL ID="0" NAME="SELECT">
+		SELECT [TaskID]
+		,[TaskName]
+		,[TaskDate]
+		,[TaskGroup]
+		,[TaskType]
+		,[TaskSTatus]
+		,[MessengerRef]
+		,[CustomerRef]
+		,[SaleProductRef]
+		,[ProductRef]
+		,[TotalCost]
+		,[TatalPaid]
+		,[Signature]
+		,[LocationRef]
+		,[LastUpdate]
+		,[TranID]
+		FROM [Task]
+	</SQL>
+	<SQL ID="1" NAME="INSERT">
+		INSERT INTO [Task]
+		([TaskID]
+		,[TaskName]
+		,[TaskDate]
+		,[TaskGroup]
+		,[TaskType]
+		,[TaskSTatus]
+		,[MessengerRef]
+		,[CustomerRef]
+		,[SaleProductRef]
+		,[ProductRef]
+		,[TotalCost]
+		,[TatalPaid]
+		,[Signature]
+		,[LocationRef]
+		,[LastUpdate])
+		VALUES
+		(@ID
+		,'@Name'
+		,'@Date'
+		,'@Group'
+		,'@Type'
+		,'@Status'
+		,'@MessengerRef'
+		,'@CustomerRef'
+		,'@SaleProductRef'
+		,'@ProductRef'
+		,@Cost
+		,@Paid
+		,'@Signature'
+		,'@LocationRef'
+		,'@LastUpdate')
+	</SQL>
+	<SQL ID="2" NAME="UPDATE">
+		UPDATE [Task]
+		SET [TaskID] = @ID
+		,[TaskName] = '@Name'
+		,[TaskDate] = '@Date'
+		,[TaskGroup] = '@Group'
+		,[TaskType] = '@Type'
+		,[TaskSTatus] = '@Status'
+		,[MessengerRef] = '@MessengerRef'
+		,[CustomerRef] = '@CustomerRef'
+		,[SaleProductRef] = '@SaleProductRef'
+		,[ProductRef] = '@ProductRef'
+		,[TotalCost] = @Cost
+		,[TatalPaid] = @Paid
+		,[Signature] = '@Signature'
+		,[LocationRef] = '@LocationRef'
+		,[LastUpdate] = '@LastUpdate'
+		WHERE [TranID] = @TranID
+	</SQL>
+	<SQL ID="3" NAME="DELETE">
+		DELETE FROM [Task]
+		WHERE TranID = @TranID
+	</SQL>
+</SQLS>

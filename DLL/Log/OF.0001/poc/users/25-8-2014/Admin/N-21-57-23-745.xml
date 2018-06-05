@@ -1,0 +1,23 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>21-57-23-745</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>poc</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="CREATE_BY" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[[not(@CREATE_BY@=preceding-sibling::Item/@CREATE_BY@)]]]></Where>
+    </Items>
+  </WhereData>
+</Log>

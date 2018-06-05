@@ -1,0 +1,21 @@
+<Document ID="1" Name="Test">
+  <Profile>
+    <Section ID="1" Name="Who">
+    </Section>
+    <Section ID="2" Name="What">
+    </Section>
+    <Section ID="3" Name="Where">
+    </Section>
+    <Section ID="4" Name="When">
+    </Section>
+    <Section ID="5" Name="Why">
+    </Section>
+  </Profile>
+  <Data>
+    <Section ID="44" Name="44" Type="44">
+      <Items Name="test" Type="FIX">
+        <Item Name="data" Type="STR" Value="" />
+      </Items>
+    </Section>
+  </Data>
+</Document>

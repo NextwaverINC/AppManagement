@@ -1,0 +1,22 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>21-49-30-380</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>document</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>ไม่สามารถติดต่อฐานข้อมูลได้</ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="CREATE_BY" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[[not(@CREATE_BY@=preceding-sibling::Item/@CREATE_BY@)]]]></Where>
+    </Items>
+  </WhereData>
+</Log>

@@ -1,0 +1,59 @@
+﻿<DOCUMENT ID="1" NAME="FUNCTION SPECTS">
+	<DATA>
+		<SECTIONS>
+			<SECTION ID="1" NAME="TaskID" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="2" NAME="TaskName" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="3" NAME="TaskDate" TYPE="2">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="4" NAME="TaskGroup" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="5" NAME="TaskType" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="6" NAME="TaskSTatus" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="7" NAME="MessengerRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="8" NAME="CustomerRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="9" NAME="SaleProductRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="10" NAME="ProductRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="11" NAME="TotalCost" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="12" NAME="TatalPaid" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="13" NAME="Signature" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="14" NAME="LocationRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="15" NAME="LastUpdate" TYPE="0">
+				<DETAIL/>
+			</SECTION>			
+		</SECTIONS>
+	</DATA>
+	<CONTROLS>
+		<TYPES>
+			<TYPE ID="0" NAME="TEXTBOX"/>
+			<TYPE ID="1" NAME="RICHTEXTBOX"/>
+			<TYPE ID="2" NAME="DATETIMEPICKER"/>
+			<TYPE ID="3" NAME="GRIDCONTROL"/>
+		</TYPES>
+	</CONTROLS>
+</DOCUMENT>

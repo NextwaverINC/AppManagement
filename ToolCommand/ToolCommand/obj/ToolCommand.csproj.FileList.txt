@@ -1,0 +1,10 @@
+bin\Debug\ToolCommand.exe
+bin\Debug\ToolCommand.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ToolCommand.Properties.Resources.resources
+obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+obj\Debug\ToolCommand.pdb
+obj\Debug\ToolCommand.dll
+..\..\DLL\ToolCommand.dll
+..\..\DLL\ToolCommand.pdb
+..\..\DLL\ToolCommand.dll.config

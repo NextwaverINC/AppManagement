@@ -1,0 +1,41 @@
+﻿<DOCUMENT ID="1" NAME="FUNCTION SPECTS">
+	<DATA>
+		<SECTIONS>
+			<SECTION ID="1" NAME="MessengerID" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="2" NAME="MessengerName" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="3" NAME="MessengerSurname" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="4" NAME="MessengerAddress" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="5" NAME="MessengerGroup" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="6" NAME="MessengerStatus" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="7" NAME="MessengerStart" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="8" NAME="PDARef" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="9" NAME="TaskListRef" TYPE="0">
+				<DETAIL/>
+			</SECTION>			
+		</SECTIONS>
+	</DATA>
+	<CONTROLS>
+		<TYPES>
+			<TYPE ID="0" NAME="TEXTBOX"/>
+			<TYPE ID="1" NAME="RICHTEXTBOX"/>
+			<TYPE ID="2" NAME="DATETIMEPICKER"/>
+			<TYPE ID="3" NAME="GRIDCONTROL"/>
+		</TYPES>
+	</CONTROLS>
+</DOCUMENT>

@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Document ID="1" Name="CompanyData">
+	<Profile>
+		<Item ID="PCODE" Value="" />
+		<Item ID="Code_Key" Value="" />
+		<Item ID="Account_Name" Value="" />
+	</Profile>
+	<Data>
+		<Section ID="1" Name="ส่วนที่ 1 :ข้อมูลทั่วไป">
+			<Items ID="1_1" Name="ข้อมูลพื้นฐาน">
+				<Item ID="S1_1" Name="ชื่อธุรกิจ(ภาษาไทย)" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_2" Name="ชื่อธุรกิจ(ภาษาอังกฤษ)" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_3" Name="UNIT ID" Value="" Type="INT(7)"/>
+				<Item ID="S1_4" Name="เลขทะเบียนนิติบุคคล" Type="INT(13)" Value=""/>
+				<Item ID="S1_5" Name="เลขทะเบียนผู้เสียภาษี" Type="INT(13)" Value=""/>
+			</Items>
+			<Items ID="1_2" Name="รูปแบบธุรกิจ">
+				<Item ID="S1_6" Name="นิติบุคคล" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_7" Name="เปิดส่วนให้แก้ไขข้อมูล(ชื่อ ไทย,อังกฤษ และรูปแบบธุรกิจ" Type="BOOL" Value=""/>
+			</Items>
+			<Items ID="1_3" Name="กรณีที่กิจการเป็นผู้ผลิตสินค้า">
+				<Item ID="S1_8" Name="กิจการท่านส่งออกผลผลิตไปจำหน่ายยังต่างประเทศคิดเป็นร้อยละเท่าไรของผลผลิตทั้งหมด" Type="INT(3)" Value=""/>
+				<Item ID="S1_9" Name="กิจการท่านนำเข้าวัตถุดิบจากต่างประเทศคิดเป็นร้อยละเท่าไรของผลผลิตทั้งหมด" Type="INT(3)" Value=""/>
+			</Items>
+			<Items ID="1_4" Name="รายละเอียดธุรกิจหลัก">
+				<Item ID="S1_10" Name="รหัสประเภทธุรกิจ" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_11" Name="แก้ไขรหัสประเภทธุรกิจหรือไม่" Type="BOOL" Value=""/>
+			</Items>
+			<Items ID="1_5" Name="หุ้นของกิจการท่านจดทะเบียนและซื้อขายในตลาดหลักทรัพย์แห่งประเทศไทย และ/หรือ ตลาดหลักทรัพย์ต่างประเทศ">
+				<Item ID="S1_12" Name="เปิดส่วนให้กรอกรายละเอียดด้านล่าง?" Value="">
+					<Means>
+						<Mean ID="C00" Name="ตลาดหลักทรัพย์" Type="VARCHAR(100)" />
+						<Mean ID="C01" Name="รหัสประเทศ" Type="VARCHAR(10)" />
+						<Mean ID="C02" Name="รหัสสกุลเงิน" Type="VARCHAR(10)" />
+						<Mean ID="C03" Name="รหัสหลักทรัพย์" Type="VARCHAR(20)" />
+						<Mean ID="C04" Name="ราคาปิดต่อหุ้น" Type="DECIMAL(8,2)" />
+					</Means>
+				</Item>
+			</Items>
+			<Items ID="1_6" Name="ที่อยู่ที่สามารถติดต่อได้">
+				<Item ID="S1_13" Name="ที่อยู่" Type="VARCHAR(400)" Value=""/>
+				<Item ID="S1_14" Name="แขวง/ตำบล" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_15" Name="จังหวัด/อำเภอ" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_16" Name="รหัสไปรษณีย์" Type="INT(5)" Value=""/>
+				<Item ID="S1_17" Name="เปิดส่วนให้แก้ไขข้อมูลที่อยู่ที่สามารถติดต่อได้?" Type="BOOL" Value=""/>
+			</Items>
+			<Items ID="1_7" Name="ชื่อบุคคลที่สามารถติดต่อได้" Value="">
+				<Item ID="S1_18" Name="1.ชื่อ" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_19" Name="1.ตำแหน่ง" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_20" Name="1.ฝ่าย" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_21" Name="1.E-mail address" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_22" Name="1.โทร" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_23" Name="1.Fax" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_24" Name="2.ชื่อ" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_25" Name="2.ตำแหน่ง" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_26" Name="2.ฝ่าย" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_27" Name="2.E-mail address" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_28" Name="2.โทร" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_29" Name="2.Fax" Type="VARCHAR(200)" Value=""/>
+				<Item ID="S1_30" Name="เปิดส่วนให้แก้ไขข้อมูลที่อยู่ที่สามารถติดต่อได้?" Type="BOOL" Value=""/>
+				<Item ID="S1_31" Name="งวดสำรวจ" Type="VARCHAR(50)" Value=""/>
+			</Items>
+		</Section>
+		<Section ID="2" Name="README">
+			<Items ID="2_1" Name="ธุรกรรมด้านต่างประเทศของกิจการท่าน">
+				<Item ID="S2_1" Name="กิจการของท่านลงทุนในหุ้นที่ต่างประเทศ" Type="BOOL" Value=""/>
+				<Item ID="S2_2" Name="นักลงทุนจากต่างประเทศลงทุนในหุ้นของกิจการท่าน" Type="BOOL" Value=""/>
+				<Item ID="S2_3" Name="กิจการของท่านมีการลงทุนในหลักทรัพย์ตลาดที่ออกโดยบุคคลหรือนิติบุคคลต่างประเทศ" Type="BOOL" Value=""/>
+				<Item ID="S2_4" Name="กิจการของท่านทำธุรกรรมตราสารอนุพันธ์กับผู้มีถิ่นที่อยู่ในต่างประเทศ" Type="BOOL" Value=""/>
+				<Item ID="S2_5" Name="กิจการของท่านมีสินทรัพย์ในต่างประเทศ" Type="BOOL" Value=""/>
+				<Item ID="S2_6" Name="กิจการของท่านจดทะบียนขออนุญาติมีบัญชีเงินฝากในต่างประเทศ" Type="BOOL" Value=""/>
+			</Items>
+			<Items ID="2_2" Name="การเปลี่ยนแปลงในกิจการของท่านระหว่างงวดสำรวจ">
+				<Item ID="S2_7" Name="การเปลี่ยนแปลงโครงสร้างการถือหุ้นของผู้ถือหุ้น(ตั้งแต่ร้อยละ 10 ขึ้นไป)" Type="BOOL" Value=""/>
+				<Item ID="S2_8" Name="การเพิ่มทุนหรือออกหุ้นใหม่" Type="BOOL" Value=""/>
+				<Item ID="S2_9" Name="การถอนทุนหรือลดทุน" Type="BOOL" Value=""/>
+				<Item ID="S2_10" Name="การควบรวมกิจการ" Type="BOOL" Value=""/>
+				<Item ID="S2_11" Name="การแปลงหนี้เป็นทุน" Type="BOOL" Value=""/>
+				<Item ID="S2_12" Name="การตีราคามูลค่าสินทรัพย์ใหม่" Type="BOOL" Value=""/>
+				<Item ID="S2_13" Name="อื่น ๆ (โปรดระบุ)...." Type="BOOL" Value=""/>
+			</Items>
+		</Section>
+		<Section ID="3" Name="ส่วนที่2:ข้อมูลการลงทุนในหุ้นในต่างประทศของกิจการ">
+			<Items ID="3_1" Name="ข้อมูลการลงทุน">
+				<Means>
+					<Mean ID="S3_1" Name="ชื่อกิจการที่ไปลงทุน" Type="VARCHAR(200)" />
+					<Mean ID="S2_2" Name="รหัสความสัมพันธ์ด้านการลงทุนของบริษัทในต่างประเทศที่มีต่อกิจการท่าน(ณ ไตรมาสปัจจุบัน)" Type="VARCHAR(10)" />
+					<Mean ID="S3_3" Name="รหัสประเภทธุรกิจหลักของกิจการที่ไปลงทุน" Type="VARCHAR(10)" />
+					<Mean ID="S3_4" Name="รหัสประเทศ ที่ตั้ง(ตามถิ่นที่อยู่)" Type="VARCHAR(10)" />
+					<Mean ID="S3_5" Name="สัดส่วนการถือหุ้น ณ ไตรมาสก่อนหน้า" Type="INT(3)" />
+					<Mean ID="S3_6" Name="มูลค่าเงินลงทุน ณ ไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_7" Name="วิธีตีราคาเงินทุน ณ ไตรมาสก่อนหน้า" Type="VARCHAR(20)" />
+					<Mean ID="S3_8" Name="กำไร(ขาดทุน)สุทธิ ณ ไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_9" Name="เงินปันผลรับ หรือกำไร(ขาดทุน)ส่งกลับ ณ ไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_10" Name="กำไร(ขาดทุน)สะสม ณ ไตรมาสก่อนหน้า" Type="VDECIMAL(17,2)" />
+					<Mean ID="S3_11" Name="สัดส่วนการถือหุ้น ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_12" Name="มูลค่าเงินลงทุน ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_13" Name="วิธีตีราคาเงินลงทุน ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_14" Name="กำไร(ขาดทุน)สุทธิ ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_15" Name="เงินปันผลรับ หรือกำไร(ขาดทุน)ส่งกลับ ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S3_16" Name="กำไร(ขาดทุน)สะสม ณ ไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+				</Means>
+			</Items>
+		</Section>
+		<Section ID="4" MainName="ส่วนที่3:ข้อมูลการลงทุนในหุ้นของนักลงทน" Name="3.1 ข้อมูลแสดงจำนวนหุ้นและโครงสร้างการถือหุ้น">
+			<Items ID="4_1" Name="1. จำนวนหุ้นที่ออกและเรียกชำระแล้ว">
+				<Item ID="S4_1" Name="ณ สิ้นไตรมาสปัจจุบัน" Type="INT(17)" Value=""/>
+				<Item ID="S4_11" Name="ณ สิ้นไตรมาสก่อน" Type="INT(17)" Value=""/>
+			</Items>
+			<Items ID="4_2" Name="2. โครงสร้างผู้ถือหุ้น">
+				<Item ID="4_2_1" Name="2.1 ผู้ถือหุ้นตั้งแต่ร้อยละ 10 ขึ้นไป">
+					<Means>
+						<Mean ID="S4_2" Name="รายชื่อผู้ถือหุ้น" Type="VARCHAR(200)" />
+						<Mean ID="S4_3" Name="รหัสประเทศ(ตามถิ่นที่อยู่)" Type="VARCHAR(10)" />
+						<Mean ID="S4_4" Name="รหัสความสัมพันธ์ด้านการลงทุนของบริษัทในต่างประเทศที่มีต่อกิจการท่าน" Type="VARCHAR(10)" />
+						<Mean ID="S4_5" Name="จำนวนหุ้น ณ สิ้นไตรมาสก่อนหน้า" Type="INT(17)" />
+						<Mean ID="S4_6" Name="จำนวนหุ้น ณ สิ้นไตรมาสปัจจุบัน" Type="INT(17)" />
+					</Means>
+				</Item>
+				<Item ID="4_2_2" Name="2.2 ผู้ถือหุ้นต่ำกว่าร้อยละ 10 จำแนกตามประเทศและความสัมพันธ์ด้านการลงทุน">
+					<Means>
+						<Mean ID="S4_7" Name="รหัสประเทศ(ตามถิ่นที่อยู่)" Type="VARCHAR(10)" />
+						<Mean ID="S4_8" Name="รหัสความสัมพันธ์ด้านการลงทุนของบริษัทในต่างประเทศที่มีต่อกิจการท่าน" Type="VARCHAR(10)" />
+						<Mean ID="S4_9" Name="จำนวนหุ้น ณ สิ้นไตรมาสก่อนหน้า" Type="INT(17)" />
+						<Mean ID="S4_10" Name="จำนวนหุ้น ณ สิ้นไตรมาสปัจจุบัน" Type="INT(17)" />
+					</Means>
+				</Item>
+			</Items>
+		</Section>
+		<Section ID="5" MainName="ส่วนที่3:ข้อมูลการลงทุนในหุ้นของนักลงทน" Name="3.2 ข้อมูลทางการเงิน">
+			<Items ID="5_1" Name="(1)งบแสดงฐานะการเงิน">
+				<Item ID="S5_1" Name="1.ทุนที่ออกและเรียกชำระแล้ว ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_2" Name="2.กำไร(ขาดทุน)สะสม ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_3" Name="2.1.จัดสรรแล้ว ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_4" Name="2.2.ยังไม่ได้จัดสรร ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_5" Name="3.รายการอื่น ๆ ที่ปรากฏอยู่ในส่วนของผู้ถือหุ้น ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_7" Name="หรือส่วนของสำนักงานใหญ่(โปรดระบุ)">
+					<Means>
+						<Mean ID="C00" Name="รายละเอียด" Type="VARCHAR(400)" />
+						<Mean ID="C01" Name="ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" />
+						<Mean ID="C02" Name="ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" />
+					</Means>
+				</Item>
+				<Item ID="S5_9" Name="4.รวมส่วนของผู้ถือหุ้นหรือส่วนของสำนักงานใหญ่ ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+
+				<Item ID="S5_14" Name="1.ทุนที่ออกและเรียกชำระแล้ว ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_15" Name="2.กำไร(ขาดทุน)สะสม ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_16" Name="2.1.จัดสรรแล้ว ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_17" Name="2.2.ยังไม่ได้จัดสรร ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_18" Name="3.รายการอื่น ๆ ที่ปรากฏอยู่ในส่วนของผู้ถือหุ้น ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_22" Name="4.รวมส่วนของผู้ถือหุ้นหรือส่วนของสำนักงานใหญ่ ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+			</Items>
+			<Items ID="5_2" Name="(2)งบกำไรขาดทุน">
+				<Item ID="S5_10" Name="1.กำไร(ขาดทุน)สุทธิ ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_11" Name="2.กำไร(ขาดทุน)ที่ไม่เกี่ยวข้องกับการดำเนินงานตามปกติ ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+
+				<Item ID="S5_23" Name="1.กำไร(ขาดทุน)สุทธิ ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_24" Name="2.กำไร(ขาดทุน)ที่ไม่เกี่ยวข้องกับการดำเนินงานตามปกติ ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+			</Items>
+			<Items ID="5_3" Name="3.3 งบแสดงการเปลี่ยนแปลงส่วนของผู้ถือหุ้น/ส่วนของสำนักงานใหญ่">
+				<Item ID="S5_12" Name="1.เงินปันผลประกาศจ่าย ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_13" Name="2.เงินปันผลประกาศจ่าย ณ สิ้นไตรมาสก่อนหน้า" Type="DECIMAL(17,2)" Value=""/>
+
+				<Item ID="S5_25" Name="1.เงินปันผลประกาศจ่าย ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+				<Item ID="S5_26" Name="2.เงินปันผลประกาศจ่าย ณ สิ้นไตรมาสปัจจุบัน" Type="DECIMAL(17,2)" Value=""/>
+			</Items>
+		</Section>
+		<Section ID="6" ์Name="ส่วนที่ 4: ข้อมูลการลงทุนในหลักทรัพย์ตลาดที่ออกโดยบุคคลหรือนิติบุคคลต่างประเทศของกิจการ">
+			<Items ID="6_1" Name="ข้อมูล">
+				<Means>
+					<Mean ID="S6_1" Name="ชื่อผู้ออกตราสาร" Type="VARCHAR(200)" />
+					<Mean ID="S6_2" Name="วันที่ออกหลักทรัพย์" Type="DATETIME" />
+					<Mean ID="S6_3" Name="วันที่ครบกำหนดหลักทรัพย์" Type="DATETIME" />
+					<Mean ID="S6_4" Name="อายุสินทรัพย์" Type="VARCHAR(10)" />
+					<Mean ID="S6_5" Name="ประเภทหลักทรัพย์" Type="VARCHAR(10)" />
+					<Mean ID="S6_6" Name="รหัสความสัมพันธ์ (ณ ไตรมาสปัจจุบัน)" Type="VARCHAR(10)" />
+					<Mean ID="S6_7" Name="รหัสประเทศของผู้ร่วมทำธุรกรรม" Type="VARCHAR(10)" />
+					<Mean ID="S6_8" Name="รหัสหลักทรัพย์(ISIN Code)" Type="VARCHAR(20)" />
+					<Mean ID="S6_9" Name="รหัสสกุลเงิน" Type="VARCHAR(10)" />
+					<Mean ID="S6_10" Name="ราคาต่อหน่วย" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_11" Name="จำนวนหน่วย ณ ต้นงวด" Type="INT(17)" />
+					<Mean ID="S6_12" Name="มูลค่ารวมตามราคาทุน ณ ต้นงวด" Type="INT(17)" />
+					<Mean ID="S6_13" Name="ราคาคลาดต่อหน่วย ณ ต้นงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_14" Name="มูลค่ารวมตามราคาตลาด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_15" Name="จำนวนหน่วย ณ ปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_16" Name="มูลค่ารวมตามราคาทุน ณ ปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_17" Name="ราคาตลาดต่อหน่วย ณ ปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_18" Name="มูลค่ารวมตามราคาตลาด ณ ปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_19" Name="ผลตอบแทนจากการลงทุน งวดปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S6_20" Name="หมายเหตุ" Type="VARCHAR(400)" />
+				</Means>
+			</Items>
+		</Section>
+		<Section ID="7" ์Name="ส่วนที่ 5: ข้อมูลการทำธุรกรรมตราสารอนุพันธ์กับผู้มีถิ่นที่อยู่ในต่างปรเทศของกิจการ">
+			<Items ID="7_1" Name="5.1 สินทรัพย์ตราสารอนุพันธ์">
+				<Means>
+					<Mean ID="S7_1" Name="รหัสประเภทตราสารอนุพันธ์" Type="VARCHAR(200)" />
+					<Mean ID="S7_2" Name="รหัสประเทศของผู้ร่วมทำธุรกรรม" Type="VARCHAR(200)" />
+					<Mean ID="S7_3" Name="งบแสดงฐานะการเงิน ณ สิ้นไตรมาสก่อนหน้า" Type="VARCHAR(200)" />
+					<Mean ID="S7_4" Name="งบแสดงฐานะการเงิน ณ สิ้นไตรมาสปัจจุบัน" Type="VARCHAR(200)" />
+					<Mean ID="S7_5" Name="ค่าพรีเมียมจ่ายจากการซื้อสัญญาตราสารสิทธิ" Type="VARCHAR(200)" />
+					<Mean ID="S7_6" Name="กำไรจากสัญญาตราสารอนุพันธ์" Type="VARCHAR(200)" />
+				</Means>
+			</Items>
+			<Items ID="7_2" Name="5.2 หนี้สินตราสารอนุพันธ์">
+				<Means>
+					<Mean ID="S7_7" Name="รหัสประเภทตราสารอนุพันธ์" Type="VARCHAR(200)" />
+					<Mean ID="S7_8" Name="รหัสประเทศของผู้ร่วมทำธุรกรรม" Type="VARCHAR(200)" />
+					<Mean ID="S7_9" Name="งบแสดงฐานะการเงิน ณ สิ้นไตรมาสก่อนหน้า" Type="VARCHAR(200)" />
+					<Mean ID="S7_10" Name="งบแสดงฐานะการเงิน ณ สิ้นไตรมาสปัจจุบัน" Type="VARCHAR(200)" />
+					<Mean ID="S7_11" Name="ค่าพรีเมียมจ่ายจากการซื้อสัญญาตราสารสิทธิ" Type="VARCHAR(200)" />
+					<Mean ID="S7_12" Name="ขาดทุนจากสัญญาตราสารอนุพันธ์" Type="VARCHAR(200)" />
+				</Means>
+			</Items>
+		</Section>
+		<Section ID="8" ์Name="ส่วนที่ 6: ข้อมูลการมีสินทรัพย์(ที่มิใช่การลงทุนในหุ้น ตราสารหนี้ และตราสารอนุพันธ์)ในต่างประเทศของกิจการ">
+			<Items ID="8_1" Name="ข้อมูล">
+				<Means>
+					<Mean ID="S8_1" Name="ประเภทสินทรัพย์" Type="VARCHAR(10)" />
+					<Mean ID="S8_2" Name="ชื่อคู่สัญญา/ลูกหนี้" Type="VARCHAR(200)" />
+					<Mean ID="S8_3" Name="รหัสความสัมพันธ์" Type="VARCHAR(10)" />
+					<Mean ID="S8_4" Name="รหัสประเทศ" Type="VARCHAR(10)" />
+					<Mean ID="S8_5" Name="รหัสสกุลเงิน" Type="VARCHAR(10)" />
+					<Mean ID="S8_6" Name="อายุสินทรัพย์" Type="VARCHAR(10)" />
+					<Mean ID="S8_7" Name="ยอดคงค้างตามสกุลเงินเดิม ณ ต้นงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S8_8" Name="ยอดคงค้างตามสกุลเงินเดิม ณ ปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S8_9" Name="ผลตอบแทนจากสินทรัพย์งวดปัจจุบัน" Type="DECIMAL(17,2)" />
+					<Mean ID="S8_10" Name="หมายเหตุ" Type="VARCHAR(400)" />
+				</Means>
+			</Items>
+		</Section>
+		<Section ID="9" ์Name="ส่วนที่ 7: บัญชีเงินฝากเงินตราต่างประเทศกับสถาบันการเงินในต่างประเทศ">
+			<Items ID="9_1" Name="ข้อมูล">
+				<Means>
+					<Mean ID="S9_1" Name="ชื่อเจ้าของบัญชี" Type="VARCHAR(200)" />
+					<Mean ID="S9_2" Name="เลขที่จดทะเบียนนิติบุคคลกระทรวงพาณิชย์/บัตรประชาชน/เลขที่ผู้เสียภาษี ของเจ้าของบัญชี" Type="INT(40)" />
+					<Mean ID="S9_3" Name="ชื่อธนาคาร" Type="VARCHAR(200)" />
+					<Mean ID="S9_4" Name="ประเทศ" Type="VARCHAR(200)" />
+					<Mean ID="S9_5" Name="ประเภทบัญชี" Type="VARCHAR(10)" />
+					<Mean ID="S9_6" Name="อายุสินทรัพย์" Type="VARCHAR(10)" />
+					<Mean ID="S9_7" Name="เลขที่บัญชี" Type="INT(30)" />
+					<Mean ID="S9_8" Name="สกุลเงิน" Type="VARCHAR(10)" />
+					<Mean ID="S9_9" Name="ยอดคงค้างต้นงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S9_10" Name="จำนวนเงินฝาก" Type="DECIMAL(17,2)" />
+					<Mean ID="S9_11" Name="จำนวนเงินถอน" Type="DECIMAL(17,2)" />
+					<Mean ID="S9_12" Name="ยอดคงค้างปลายงวด" Type="DECIMAL(17,2)" />
+					<Mean ID="S9_13" Name="วัตถุประสงค์" Type="VARCHAR(10)" />
+					<Mean ID="S9_14" Name="ประเทศ ผู้โอนเงิน/ผู้รับเงิน" Type="VARCHAR(10)" />
+					<Mean ID="S9_15" Name="หมายเหตุ" Type="VARCHAR(400)" />
+					<Mean ID="S9_16" Name="หนังสืออนุญาตเลขที่" Type="VARCHAR(200)" />
+					<Mean ID="S9_17" Name="หนังสืออนุญาตวันที่" Type="DATETIME" />
+				</Means>
+			</Items>
+		</Section>
+		<Section ID="999" ์Name="ข้อมูลเพิ่มเติมและข้อเสนอแนะ">
+			<Items ID="999_1" Name="1.โปรดใส่เครื่องหมายถูกลงในช่องเพื่อแสดงความเห็นของท่านต่อการสำรวจข้อมุลในประเด็นต่าง ๆ">
+				<Item ID="S999_1" Name="วิธีการจัดส่งแบบสำรวจ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_2" Name="รูปแบบและเนื้อหาของแบบสำรวจ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_3" Name="ความชัดเขนของคำนิยามและคำศัพท์ต่าง ๆ ที่ใช้ในแบบสำรวจ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_4" Name="คู่มือการตอบแบบสำรวจ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_5" Name="การให้คำแนะนำและความช่วยเหลือ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_6" Name="การให้ระยะเวลาในการกรอกแบบสำรวจ" Type="VARCHAR(10)" Value=""/>
+				<Item ID="S999_7" Name="ข้อเสนอแนะอื่น ๆ" Type="VARCHAR(400)" Value=""/>
+			</Items>
+			<Items ID="999_2" Name="2.ท่านต้องการรับแบบสำรวจ">
+				<Item ID="999_8" Name="ภาษาที่เลือก" Type="VARCHAR(10)" Value=""/>
+				<Item ID="999_9" Name="โดยวิธี" Type="VARCHAR(10)" Value=""/>
+			</Items>
+			<Items ID="999_3" Name="3.ในการสำรวจครั้งต่อไป ท่านต้องการคู่มือตอบแบบสำรวจหรือไม่">
+				<Item ID="999_10" Name="ต้องการคู่มือหรือไม่?" Type="VARCHAR(100)" Value=""/>
+			</Items>
+		</Section>
+	</Data>
+</Document>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SQLS ID="" NAME="MESSENGER TABLE">
+	<Config NAME="VALUE">
+		<Column ID="1" NAME="@ID" VALUE="ProductID"/>
+		<Column ID="2" NAME="@Name" VALUE="ProductName"/>
+		<Column ID="3" NAME="@Cost" VALUE="ProductCost"/>
+		<Column ID="4" NAME="@Status" VALUE="ProductStatus"/>
+		<Column ID="5" NAME="@Type" VALUE="ProductType"/>
+		<Column ID="6" NAME="@Update" VALUE="LastUpdate"/>
+		<Column ID="7" NAME="@TranID" VALUE="TranID"/>	
+	</Config>
+	<SQL ID="0" NAME="SELECT">
+		SELECT [ProductID]
+		,[ProductName]
+		,[ProductCost]
+		,[ProductStatus]
+		,[ProductType]
+		,[LastUpdate]
+		,[TranID]
+		FROM [Product]
+	</SQL>
+	<SQL ID="1" NAME="INSERT">
+		INSERT INTO [Product]
+		([ProductID]
+		,[ProductName]
+		,[ProductCost]
+		,[ProductStatus]
+		,[ProductType]
+		,[LastUpdate])
+		VALUES
+		(@ID
+		,'@Name'
+		,'@Cost'
+		,'@Status'
+		,'@Type'
+		,'@Update')		
+	</SQL>
+	<SQL ID="2" NAME="UPDATE">
+		UPDATE [Product]
+		SET [ProductID] = @ID
+		,[ProductName] = '@Name'
+		,[ProductCost] = '@Cost'
+		,[ProductStatus] = '@Status'
+		,[ProductType] = '@Type'
+		,[LastUpdate] = '@Update'
+		WHERE [TranID] = @TranID
+	</SQL>
+	<SQL ID="3" NAME="DELETE">
+		DELETE FROM [Product]
+		WHERE TranID = @TranID
+	</SQL>
+</SQLS>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataSources>
+	<DataSource ID="1" Name="Sex" Type="Item">
+		<Item Text="ชาย" Value="M"/>
+		<Item Text="หญิง" Value="W"/>
+	</DataSource>
+	<DataSource ID="2" Name="Prefix" Type="Item">
+		<Item Text="นาย" Value="นาย"/>
+		<Item Text="นาง" Value="นาง"/>
+		<Item Text="นางสาว" Value="นางสาว"/>
+	</DataSource>
+	<DataSource ID="3" Name="Province" Type="Query">
+		SELECT [Province_Code] as [Value]
+		,[Province_Name] as [Text]
+		FROM [Location_in_Thailand].[dbo].[Province]
+	</DataSource>
+</DataSources>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <Types>    
+    <Type ID="STR" Detail=""/>
+    <Type ID="XML" Detail=""/>
+  </Types>
+  <Connection>
+    <Item ID="NEXWS01" Type="NEXWS" OfficeSpaceId="OF.0001" Connection="NextwaverDatabase" Database="system" />
+    <Item ID="MSSQL01" Type="MSSQL" Server="localhost" Database="TestProcess" Login="sa" Password="nextwaver" />    
+  </Connection>
+  <Process ID="P01" Name="users" WSTable="users" WSConnectionID="NEXWS01" DBConnectionID="MSSQL01" Detail="ข้อมูลผู้ใช้งาน" UpdateDate="">
+    <Query>
+      <Insert>
+        INSERT INTO [users]
+        ([ID],[USERNAME],[PASSWORD]
+        ,[TITLE],[FIRSTNAME],[LASTNAME]
+        ,[POSITION_CODE],[CREATE_DATE]
+        ,[CREATE_BY],[UPDATE_DATE],[UPDATE_BY])
+        VALUES
+        ('@ID@','@USERNAME@','@PASSWORD@'
+        ,'@TITLE@','@FIRSTNAME@','@LASTNAME@'
+        ,'@POSITION_CODE@','@CREATE_DATE@'
+        ,'@CREATE_BY@','@UPDATE_DATE@','@UPDATE_BY@')
+      </Insert>     
+      <Delete>DELETE FROM [users] WHERE ID = '@ID@'</Delete>
+    </Query>
+    <Columns>
+      <Column Type="STR" Name="ID" Parameter="@ID@" />
+      <Column Type="STR" Name="USERNAME" Parameter="@USERNAME@"/>
+      <Column Type="STR" Name="PASSWORD" Parameter="@PASSWORD@"/>
+      <Column Type="STR" Name="TITLE" Parameter="@TITLE@"/>
+      <Column Type="STR" Name="FIRSTNAME" Parameter="@FIRSTNAME@"/>
+      <Column Type="STR" Name="LASTNAME" Parameter="@LASTNAME@"/>
+      <Column Type="STR" Name="POSITION_CODE" Parameter="@POSITION_CODE@"/>
+      <Column Type="STR" Name="CREATE_DATE" Parameter="@CREATE_DATE@"/>
+      <Column Type="STR" Name="CREATE_BY" Parameter="@CREATE_BY@"/>
+      <Column Type="STR" Name="UPDATE_DATE" Parameter="@UPDATE_DATE@"/>
+      <Column Type="STR" Name="UPDATE_BY" Parameter="@UPDATE_BY@"/>
+    </Columns>    
+  </Process>
+  <Process ID="P02" Name="position" WSTable="position" DBTable="position" WSConnectionID="NEXWS01" DBConnectionID="MSSQL01" Detail="ข้อมูลตำแหน่ง" UpdateDate="">
+    <Query>
+      <Insert>
+        INSERT INTO [position]
+        ([ID],[POSITION_CODE],[POSITION_NAME]
+        ,[PARENT_CODE],[CREATE_DATE],[CREATE_BY]
+        ,[UPDATE_DATE],[UPDATE_BY],[XML_DATA])
+        VALUES
+        ('@ID@','@POSITION_CODE@','@POSITION_NAME@'
+        ,'@PARENT_CODE@','@CREATE_DATE@','@CREATE_BY@'
+        ,'@UPDATE_DATE@','@UPDATE_BY@','@XML_DATA@')
+      </Insert>
+      <Delete>DELETE FROM [position] WHERE ID = '@ID@'</Delete>
+    </Query>
+    <Columns>
+      <Column Type="STR" Name="ID" Parameter="@ID@" />
+      <Column Type="STR" Name="POSITION_CODE" Parameter="@POSITION_CODE@"/>
+      <Column Type="STR" Name="POSITION_NAME" Parameter="@POSITION_NAME@"/>
+      <Column Type="STR" Name="PARENT_CODE" Parameter="@PARENT_CODE@"/>    
+      <Column Type="STR" Name="CREATE_DATE" Parameter="@CREATE_DATE@"/>
+      <Column Type="STR" Name="CREATE_BY" Parameter="@CREATE_BY@"/>
+      <Column Type="STR" Name="UPDATE_DATE" Parameter="@UPDATE_DATE@"/>
+      <Column Type="STR" Name="UPDATE_BY" Parameter="@UPDATE_BY@"/>
+      <Column Type="STR" Name="UPDATE_BY" Parameter="@UPDATE_BY@"/>
+      <Column Type="XML" Name="" Parameter="@XML_DATA@"/>      
+    </Columns>    
+  </Process>
+</Config>

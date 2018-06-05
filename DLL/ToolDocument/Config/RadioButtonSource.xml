@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataSources>
+	<DataSource ID="1" Name="Sex" Style="H">
+		<Item Text="ชาย" Value="M" Checked="T"/>
+		<Item Text="หญิง" Value="W" Checked=""/>
+	</DataSource>
+	<DataSource ID="2" Name="Sex" Style="V">
+		<Item Text="นาย" Value="1" Checked="T"/>
+		<Item Text="นาง" Value="2" Checked=""/>
+		<Item Text="นางสาว" Value="3" Checked=""/>
+	</DataSource>
+</DataSources>

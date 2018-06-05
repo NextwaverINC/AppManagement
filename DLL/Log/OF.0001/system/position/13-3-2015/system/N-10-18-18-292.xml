@@ -1,0 +1,21 @@
+<Log>
+  <UserName>system</UserName>
+  <ID>10-18-18-292</ID>
+  <Command>SelectAllColumnByWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>system</ObjectId>
+  <ItemId>position</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Item ColumnName="ID" Value="2" Operation="=" />
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

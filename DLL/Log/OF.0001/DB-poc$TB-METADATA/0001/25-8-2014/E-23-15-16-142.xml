@@ -1,0 +1,17 @@
+<Log>
+  <UserName>
+  </UserName>
+  <ID>23-15-16-142</ID>
+  <Command>SaveDocument</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>DB-poc$TB-metadata</ObjectId>
+  <ItemId>0001</ItemId>
+  <ErrorMessage>File Sending fail.No connection could be made because the target machine actively refused it 192.168.1.37:5001</ErrorMessage>
+  <Data>
+    <!--<Document ID="1" Name="Table"><Data><Section ID="poc" Name=""><Items ID="metadata" Name=""><Means MaxID="5"><Mean ID="ID" Name="ID" Detail="" Type="Auto" /><Mean ID="C01" Name="DATANAME" Detail="ชื่อข้อมูล" Type="varchar" /><Mean ID="C02" Name="DATADETAIL" Detail="รายละเอียด" Type="varchar" /><Mean ID="C03" Name="CREATE_DATE" Detail="วันที่สร้าง" Type="varchar" /><Mean ID="C04" Name="CREATE_BY" Detail="ผู้สร้าง" Type="varchar" /><Mean ID="C05" Name="UPDATE_DATE" Detail="วันที่แก้ไข" Type="varchar" /></Means></Items></Section></Data></Document>-->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

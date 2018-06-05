@@ -1,0 +1,37 @@
+<Document ID="" Name="">
+  <Profile>
+    <Section ID="1" Name="Who"></Section>
+    <Section ID="2" Name="What"></Section>
+    <Section ID="3" Name="Where"></Section>
+    <Section ID="4" Name="When"></Section>
+    <Section ID="5" Name="Why"></Section>
+  </Profile>
+  <Data>
+    <Section ID="1" Name="Information" Type="STR">
+      <Items Name="Data" Type="FIX">
+        <Item Name="Name" Type="STR" Value="" />
+        <!--
+        //Document/Data/Section[@ID='1']/Items[@Name='Data']/Item[@Name='Name']
+        -->
+        <Item Name="Position" Type="STR" Value="" />
+        <Item Name="Salary" Type="STR" Value="" />
+        <Item Name="Image" Type="STR" Value="" />
+      </Items>
+    </Section>
+   
+    <Section ID="2" Name="Work" Type="STR">
+      <Items Name="Data" Type="SEQ">
+        <Means Name="Data">
+          <Mean ID="C00" Name="สถานที่ทำงาน" Type="STR" />
+          <Mean ID="C01" Name="เริ่มทำงาน" Type="STR" />
+          <Mean ID="C02" Name="ถึงวันที่" Type="STR" />
+          <Mean ID="C03" Name="ตำแหน่งงาน" Type="STR" />
+          <Mean ID="C04" Name="ลักษณะงาน" Type="STR" />
+          <Mean ID="C05" Name="ค่าจ้าง" Type="STR" />
+          <Mean ID="C06" Name="เหตุที่ออก" Type="STR" />
+        </Means>
+        <Item C00="" C01="" C02="" C03="" C04="" C05="" C06="" />
+      </Items>
+    </Section>
+  </Data>
+</Document>

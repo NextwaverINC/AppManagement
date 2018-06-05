@@ -1,0 +1,27 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>10-46-58-883</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>ProjManage</ObjectId>
+  <ItemId>Install_Tool</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="NAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="DETAILS" ColumnType="Varchar" Value="" />
+      <Item ColumnName="IDDATA" ColumnType="Varchar" Value="" />
+      <Item ColumnName="STATUS" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SQLS ID="" NAME="CUSTOMER TABLE">
+	<Config NAME="VALUE">
+		<Column ID="1" NAME="@ID" VALUE="CustomerID"/>
+		<Column ID="2" NAME="@Name" VALUE="CustomerName"/>
+		<Column ID="3" NAME="@SurName" VALUE="CustomerSurName"/>
+		<Column ID="4" NAME="@Address" VALUE="CustomerAddress"/>
+		<Column ID="5" NAME="@Phone" VALUE="CustomerPhone"/>
+		<Column ID="6" NAME="@Nation" VALUE="CustomerNation"/>
+		<Column ID="7" NAME="@Language" VALUE="CustomerLanguage"/>		
+		<Column ID="8" NAME="@Status" VALUE="CustomerStatus"/>
+		<Column ID="9" NAME="@Update" VALUE="CustomerUpdate"/>
+		<Column ID="10" NAME="@TaskRef" VALUE="TaskRef"/>
+		<Column ID="11" NAME="@CustomerGrade" VALUE="CustomerGrade"/>
+		<Column ID="12" NAME="@TranID" VALUE="TranID"/>
+	</Config>
+	<SQL ID="0" NAME="SELECT">
+		SELECT [CustomerID]
+		,[CustomerName]
+		,[CustomerSurName]
+		,[CustomerAddress]
+		,[CustomerPhone]
+		,[CustomerNation]
+		,[CustomerLanguage]
+		,[CustomerStatus]
+		,[CustomerUpdate]
+		,[TaskRef]
+		,[CustomerGrade]
+		,[TranID]
+		FROM [Customer]
+	</SQL>
+	<SQL ID="1" NAME="INSERT">
+		INSERT INTO [Customer]
+		([CustomerID]
+		,[CustomerName]
+		,[CustomerSurName]
+		,[CustomerAddress]
+		,[CustomerPhone]
+		,[CustomerNation]
+		,[CustomerLanguage]
+		,[CustomerStatus]
+		,[CustomerUpdate]
+		,[TaskRef]
+		,[CustomerGrade])
+		VALUES
+		(@ID
+		,'@Name'
+		,'@SurName'
+		,'@Address'
+		,'@Phone'
+		,'@Nation'
+		,'@Language'
+		,'@Status'
+		,'@Update'
+		,'@TaskRef'
+		,'@CustomerGrade')
+	</SQL>
+	<SQL ID="2" NAME="UPDATE">
+		UPDATE [Customer]
+		SET [CustomerID] = @ID
+		,[CustomerName] = '@Name'
+		,[CustomerSurName] = '@SurName'
+		,[CustomerAddress] = '@Address'
+		,[CustomerPhone]  = '@Phone'
+		,[CustomerNation] = '@Nation'
+		,[CustomerLanguage] = '@Language'
+		,[CustomerStatus]  = '@Status'
+		,[CustomerUpdate] = '@Update'
+		,[TaskRef] = '@TaskRef'
+		,[CustomerGrade] = '@CustomerGrade'
+		WHERE TranID = @TranID
+	</SQL>
+	<SQL ID="3" NAME="DELETE">
+		DELETE FROM [Customer]
+		WHERE TranID = @TranID
+	</SQL>
+</SQLS>

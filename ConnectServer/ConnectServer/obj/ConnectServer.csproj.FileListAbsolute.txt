@@ -1,0 +1,24 @@
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ConnectServer.dll.config
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ConnectServer.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ConnectServer.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ConnectServer\ConnectServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ConnectServer\ConnectServer\obj\Debug\ConnectServer.Properties.Resources.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ConnectServer\ConnectServer\obj\Debug\ConnectServer.csproj.GenerateResource.Cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ConnectServer\ConnectServer\obj\Debug\ConnectServer.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ConnectServer\ConnectServer\obj\Debug\ConnectServer.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ConnectServer.dll.config
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ConnectServer.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ConnectServer.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ConnectServer\ConnectServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ConnectServer\ConnectServer\obj\Debug\ConnectServer.Properties.Resources.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ConnectServer\ConnectServer\obj\Debug\ConnectServer.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ConnectServer\ConnectServer\obj\Debug\ConnectServer.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ConnectServer\ConnectServer\obj\Debug\ConnectServer.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ConnectServer.dll.config
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ConnectServer.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ConnectServer.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\ConnectServer\ConnectServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\ConnectServer\ConnectServer\obj\Debug\ConnectServer.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\ConnectServer\ConnectServer\obj\Debug\ConnectServer.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\ConnectServer\ConnectServer\obj\Debug\ConnectServer.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\ConnectServer\ConnectServer\obj\Debug\ConnectServer.pdb

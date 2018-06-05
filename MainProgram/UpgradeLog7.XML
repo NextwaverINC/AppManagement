@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MainProgram">
+</Property><Property Name="Solution File" Value="D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\MainProgram.sln">
+</Property><Property Name="Date" Value="29 เมษายน 2011">
+</Property><Property Name="Time" Value="10:27:17">
+</Property><Property Name="Log Number" Value="7">
+</Property></Properties><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Design.csproj" Description="Project file successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Design.csproj">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Design.csproj.user" Description="Project user file successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Design.csproj.user">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Editor.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Editor.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Editor.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Editor.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\EditorForm.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\EditorForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\EditorForm.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\EditorForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\LinkDialog.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\LinkDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\LinkDialog.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\LinkDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Program.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Program.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\SearchDialog.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\SearchDialog.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\SearchDialog.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\SearchDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\TextInsertForm.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\TextInsertForm.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\TextInsertForm.Designer.cs" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\TextInsertForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Properties\Settings.settings" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\bold.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\bold.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\italic.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\italic.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\app.config" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\app.config">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\color.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\color.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\link.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\link.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\right_arrow.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\right_arrow.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\backcolor.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\backcolor.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\cj.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\cj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\fj.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\fj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\indent.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\indent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\lj.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\lj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\ol.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\ol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\outdent.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\outdent.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\rj.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\rj.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\underscore.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\underscore.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Resources\uol.bmp" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Resources\uol.bmp">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Editor.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Editor.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\EditorForm.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\EditorForm.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\LinkDialog.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\LinkDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Properties\Resources.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\SearchDialog.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\SearchDialog.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\TextInsertForm.resx" Description="File successfully backed up as D:\Data\Work\BOT_ALL\แบบสำรวจ F46\Management ORG2\MainProgram\Backup5\TextInsertForm.resx">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Design.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Design" Source="..\HtmlEditor\Design.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Design" Source="..\HtmlEditor\Design.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

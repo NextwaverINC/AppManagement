@@ -1,0 +1,64 @@
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.pdb
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document.xml
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document.exe.manifest
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document.application
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document.exe
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document.pdb
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.exe.manifest
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.application
+D:\Thaes_Data\Work\รวม Code Manament\Document\Document\Document\obj\Debug\Document.exe
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document\Document.xml
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document\Document.exe.manifest
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document\Document.application
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document\Document.exe
+D:\Thaes_Data\Work\รวม Code Manament\Document\DLL\Document\Document.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.xml
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.xml
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\Document\Document.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmAddItemData.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmDocument.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmEditItem.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmProfile.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmSection.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.frmViewXML.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.Properties.Resources.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Document\Document\obj\Debug\Document.pdb
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmAddItemData.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmAddItemProfile.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmDocument.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmEditItem.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmProfile.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmSection.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.frmViewXML.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.Properties.Resources.resources
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.csproj.GenerateResource.Cache
+C:\Users\PC-HPcompaq-Pro6300\Desktop\Management_V1\Document\Document\obj\Debug\Document.csprojResolveAssemblyReference.cache

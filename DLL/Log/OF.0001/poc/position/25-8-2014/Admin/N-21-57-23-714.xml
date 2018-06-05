@@ -1,0 +1,25 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>21-57-23-714</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>poc</ObjectId>
+  <ItemId>position</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+      <Item ColumnName="POSITION_NAME" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Item ColumnName="POSITION_CODE" Value="001" Operation="=" />
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

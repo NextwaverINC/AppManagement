@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MAPPINGS NAME="PDA">
+	<MAPPING ID="1" COLUMN="PdaID" SECTION="1"/>
+	<MAPPING ID="2" COLUMN="PdaName" SECTION="2"/>
+	<MAPPING ID="3" COLUMN="PdaSpec" SECTION="3"/>
+	<MAPPING ID="4" COLUMN="PdaBrand" SECTION="4"/>
+	<MAPPING ID="5" COLUMN="PdaStatus" SECTION="5"/>
+	<MAPPING ID="6" COLUMN="LastUpdate" SECTION="6"/>
+	<MAPPING ID="7" COLUMN="MessagerRef" SECTION="7"/>
+	<MAPPING ID="8" COLUMN="TrackRef" SECTION="8"/>
+</MAPPINGS>

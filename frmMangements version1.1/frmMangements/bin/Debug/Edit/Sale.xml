@@ -1,0 +1,29 @@
+﻿<DOCUMENT ID="1" NAME="FUNCTION SPECTS">
+	<DATA>
+		<SECTIONS>
+			<SECTION ID="1" NAME="SaleID" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="2" NAME="SaleName" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="3" NAME="SaleAddress" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="4" NAME="SaleGroup" TYPE="0">
+				<DETAIL/>
+			</SECTION>
+			<SECTION ID="5" NAME="SaleStatus" TYPE="0">
+				<DETAIL/>
+			</SECTION>			
+		</SECTIONS>
+	</DATA>
+	<CONTROLS>
+		<TYPES>
+			<TYPE ID="0" NAME="TEXTBOX"/>
+			<TYPE ID="1" NAME="RICHTEXTBOX"/>
+			<TYPE ID="2" NAME="DATETIMEPICKER"/>
+			<TYPE ID="3" NAME="GRIDCONTROL"/>
+		</TYPES>
+	</CONTROLS>
+</DOCUMENT>

@@ -1,0 +1,26 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>23-19-23-543</ID>
+  <Command>UpdateData</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>poc</ObjectId>
+  <ItemId>position</ItemId>
+  <ErrorMessage>
+  </ErrorMessage>
+  <Data>
+    <!--<Views><View Name="Administrator" Enable="T" IconID="48" WaterMarkID="51"><Item MappingID="1" Name="Users" Enable="T" IconID="39" /><Item MappingID="2" Name="Position" Enable="T" IconID="2" /></View><View Name="SERVER" Enable="T" IconID="48" WaterMarkID="51"><Item MappingID="3" Name="Metadata" Enable="T" IconID="39" /></View></Views>-->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="POSITION_NAME" ColumnType="Varchar" Value="Administrator" />
+      <Item ColumnName="UPDATE_DATE" ColumnType="Varchar" Value="25/08/2557" />
+      <Item ColumnName="UPDATE_BY" ColumnType="Varchar" Value="Admin" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Item ColumnName="ID" Value="1" Operation="=" />
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

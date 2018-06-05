@@ -1,0 +1,16 @@
+<Log>
+  <UserName>Admin</UserName>
+  <ID>23-0-27-198</ID>
+  <Command>SaveDocument</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>DB-poc$TB-metadata</ObjectId>
+  <ItemId>0001</ItemId>
+  <ErrorMessage>File Sending fail.No connection could be made because the target machine actively refused it 192.168.1.37:5001</ErrorMessage>
+  <Data>
+    <!--<Document ID="1" Name="Table"><Data><Section ID="poc" Name=""><Items ID="metadata" Name=""><Means MaxID="6"><Mean ID="ID" Name="ID" Detail="" Type="Auto" /><Mean ID="C01" Name="DATANAME" Detail="ชื่อข้อมูล" Type="varchar" /><Mean ID="C02" Name="DATADETAIL" Detail="รายละเอียด" Type="varchar" /><Mean ID="C03" Name="CREATE_DATE" Detail="วันที่สร้าง" Type="varchar" /><Mean ID="C04" Name="CREATE_BY" Detail="ผู้สร้าง" Type="varchar" /><Mean ID="C05" Name="UPDATE_DATE" Detail="วันที่แก้ไข" Type="varchar" /><Mean ID="C06" Name="UPDATE_BY" Detail="ผู้แก้ไข" Type="varchar" /></Means><Item ID="1" C01="ARMAS" C02="ตารางข้อมูลลูกค้า(CUSTOMER)" C03="26/08/2557" C04="Admin" C05="28/08/2557" C06="Admin" /><Item ID="2" C01="OESLM" C02="ตารางผู้ขาย(SALES)" C03="22/09/2557" C04="Admin" C05="22/09/2557" C06="Admin" /></Items></Section></Data></Document>-->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+  </WhereData>
+</Log>

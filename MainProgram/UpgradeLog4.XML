@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MainProgram">
+</Property><Property Name="Solution File" Value="D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram.sln">
+</Property><Property Name="Date" Value="5 เมษายน 2010">
+</Property><Property Name="Time" Value="16:17:10">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\AccessListsControl.csproj" Description="Project file successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\AccessListsControl.csproj">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmAccessListData.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmAccessListData.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmAccessListData.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmAccessListData.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmNewData.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmNewData.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmNewData.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmNewData.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Program.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Program.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\SQL.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\SQL.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\ucACL.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\ucACL.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\ucACL.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\ucACL.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Properties\Settings.settings" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmAccessListData.resx" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmAccessListData.resx">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\frmNewData.resx" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\frmNewData.resx">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\Properties\Resources.resx" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\ucACL.resx" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup2\ucACL.resx">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\AccessListsControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\AccessListsControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AccessListsControl" Source="..\AccessListsControl\AccessListsControl\AccessListsControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

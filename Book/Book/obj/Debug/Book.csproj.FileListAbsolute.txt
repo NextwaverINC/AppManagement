@@ -1,0 +1,16 @@
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Book\Book.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\DLL\Book\Book.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\ResolveAssemblyReference.cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.Properties.Resources.resources
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.csproj.GenerateResource.Cache
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.dll
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.pdb
+D:\Thaes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.frmBook.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\Book\Book.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\DLL\Book\Book.pdb
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\ResolveAssemblyReference.cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.frmBook.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.Properties.Resources.resources
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.csproj.GenerateResource.Cache
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.dll
+D:\Thanes_Data\Thanes_Data\WorkSpace_app\Management_V1\Book\Book\obj\Debug\Book.pdb

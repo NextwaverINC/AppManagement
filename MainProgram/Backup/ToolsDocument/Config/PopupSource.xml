@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataSources>
+	<DataSource ID="1" ValueMember="Province_Code" DisplayMember="Province_Name" Search="@SearchText">
+		<Item ID="Query">
+			SELECT [Province_Code]
+			,[Province_Name]
+			FROM [Location_in_Thailand].[dbo].[Province]
+			WHERE [Province_Code] like '%@SearchText%'
+			OR [Province_Name] like '%@SearchText%'
+		</Item>
+		<Item ID="Display">
+			<Item ColumnName="Province_Code" HeaderText="Province_Code" Width="100" />
+			<Item ColumnName="Province_Name" HeaderText="Province_Name" Width="300" />			
+		</Item>
+	</DataSource>
+	<DataSource ID="2" ValueMember="Area_Code" DisplayMember="Area_Name" Search="@SearchText" Parameter="@Parameter">
+		<Item ID="Query">
+			SELECT [Area_Code]
+			,[Area_Name]
+			FROM [Location_in_Thailand].[dbo].[Area]
+			WHERE Province_Code = '@Parameter'
+			AND substring([Area_Code],LEN([Area_Code]),1) != '0'
+			AND ([Area_Name] like '%@SearchText%'
+			OR [Area_Code] like '%@SearchText%')
+		</Item>
+		<Item ID="Display">
+			<Item ColumnName="Area_Code" HeaderText="Province_Code" Width="100" />
+			<Item ColumnName="Area_Name" HeaderText="Province_Name" Width="300" />
+		</Item>
+	</DataSource>
+</DataSources>

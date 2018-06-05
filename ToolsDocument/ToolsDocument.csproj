@@ -1,0 +1,236 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A785856-E3B0-4266-81BB-F2E04AE823D2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToolsDocument</RootNamespace>
+    <AssemblyName>ToolsDocument</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\DLL\ToolDocument\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ConnectServer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\ConnectServer\ConnectServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cImage.cs" />
+    <Compile Include="DocumentControls.cs" />
+    <Compile Include="frmEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEntry.Designer.cs">
+      <DependentUpon>frmEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopup.Designer.cs">
+      <DependentUpon>frmPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEntry.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCheckBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucComboBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDataGridView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDateTimePicker.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucDateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucDoubleTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucDoubleTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMappingControls.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucMappingControls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNumericUpDown.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucNumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPictureImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucPictureImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPopup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucPopup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRadioButton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucRadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucRichTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucRichTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ucTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StandardDocument.cs" />
+    <Compile Include="TransformXml.cs" />
+    <Compile Include="ucCheckBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCheckBox.Designer.cs">
+      <DependentUpon>ucCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucComboBox.Designer.cs">
+      <DependentUpon>ucComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDataGridView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDataGridView.Designer.cs">
+      <DependentUpon>ucDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDateTimePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDateTimePicker.Designer.cs">
+      <DependentUpon>ucDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucDoubleTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucDoubleTextBox.Designer.cs">
+      <DependentUpon>ucDoubleTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMappingControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMappingControls.Designer.cs">
+      <DependentUpon>ucMappingControls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNumericUpDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNumericUpDown.Designer.cs">
+      <DependentUpon>ucNumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPictureImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPictureImage.Designer.cs">
+      <DependentUpon>ucPictureImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPopup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPopup.Designer.cs">
+      <DependentUpon>ucPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRadioButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRadioButton.Designer.cs">
+      <DependentUpon>ucRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucRichTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucRichTextBox.Designer.cs">
+      <DependentUpon>ucRichTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTextBox.Designer.cs">
+      <DependentUpon>ucTextBox.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config\ComboBoxSource.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Config\PopupSource.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Config\RadioButtonSource.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

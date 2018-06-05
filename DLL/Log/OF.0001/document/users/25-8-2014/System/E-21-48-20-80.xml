@@ -1,0 +1,26 @@
+<Log>
+  <UserName>System</UserName>
+  <ID>21-48-20-80</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>document</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>ไม่สามารถติดต่อฐานข้อมูลได้</ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+    <Items>
+      <Item ColumnName="USERNAME" ColumnType="Varchar" Value="" />
+      <Item ColumnName="POSITION_CODE" ColumnType="Varchar" Value="" />
+      <Item ColumnName="ID" ColumnType="Varchar" Value="" />
+    </Items>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Item ColumnName="USERNAME" Value="Admin" Operation="=" />
+      <Item ColumnName="PASSWORD" Value="admin" Operation="=" />
+      <Where><![CDATA[]]></Where>
+    </Items>
+  </WhereData>
+</Log>

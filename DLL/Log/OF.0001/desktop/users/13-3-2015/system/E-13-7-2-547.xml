@@ -1,0 +1,19 @@
+<Log>
+  <UserName>system</UserName>
+  <ID>13-7-2-547</ID>
+  <Command>SelectByColumnAndWhere</Command>
+  <OfficeSpaceId>OF.0001</OfficeSpaceId>
+  <ObjectId>desktop</ObjectId>
+  <ItemId>users</ItemId>
+  <ErrorMessage>NColumns:ไม่สามารถนำเข้า Column ได้เนื่องจาก :Root element is missing.</ErrorMessage>
+  <Data>
+    <!---->
+  </Data>
+  <ColumnData>
+  </ColumnData>
+  <WhereData>
+    <Items>
+      <Where><![CDATA[[contains(@@,'Admin')][@CREATE_BY@ = 'Admin']]]></Where>
+    </Items>
+  </WhereData>
+</Log>

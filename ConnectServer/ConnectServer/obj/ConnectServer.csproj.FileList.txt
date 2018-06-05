@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ConnectServer.Properties.Resources.resources
+obj\Debug\ConnectServer.csproj.GenerateResource.Cache
+..\..\DLL\ConnectServer.dll.config
+..\..\DLL\ConnectServer.dll
+..\..\DLL\ConnectServer.pdb
+obj\Debug\ConnectServer.dll
+obj\Debug\ConnectServer.pdb

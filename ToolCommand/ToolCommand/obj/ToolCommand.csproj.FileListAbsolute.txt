@@ -1,0 +1,40 @@
+D:\Work\Management_ALL\Management_Main\DLL\ToolCommand.dll.config
+D:\Work\Management_ALL\Management_Main\DLL\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\DLL\ToolCommand.pdb
+D:\Work\Management_ALL\Management_Main\ToolCommand\ToolCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\ToolCommand\ToolCommand\obj\Debug\ToolCommand.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\ToolCommand\ToolCommand\obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\ToolCommand\ToolCommand\obj\Debug\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\ToolCommand\ToolCommand\obj\Debug\ToolCommand.pdb
+D:\Work\Management_ALL\Management_Main\WEB\DLL\ToolCommand.dll.config
+D:\Work\Management_ALL\Management_Main\WEB\DLL\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\WEB\DLL\ToolCommand.pdb
+D:\Work\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.Properties.Resources.resources
+D:\Work\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+D:\Work\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.dll
+D:\Work\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ToolCommand.dll.config
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ToolCommand.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\DLL\ToolCommand.pdb
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.Properties.Resources.resources
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.dll
+D:\Work\Nextwaver\Management_ALL\Management_Main\WEB\ToolCommand\ToolCommand\obj\Debug\ToolCommand.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ToolCommand\ToolCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ToolCommand\ToolCommand\obj\Debug\ToolCommand.Properties.Resources.resources
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ToolCommand\ToolCommand\obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ToolCommand\ToolCommand\obj\Debug\ToolCommand.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ToolCommand.dll.config
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ToolCommand.dll
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\DLL\ToolCommand.pdb
+D:\Work\รวม Code Manament\ORGINAL Management\ORGINAL Management\ToolCommand\ToolCommand\obj\Debug\ToolCommand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ToolCommand.dll.config
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ToolCommand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\DLL\ToolCommand.pdb
+D:\Data\Work\รวม Code Manament\Bussinesslist\ToolCommand\ToolCommand\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\ToolCommand\ToolCommand\obj\Debug\ToolCommand.Properties.Resources.resources
+D:\Data\Work\รวม Code Manament\Bussinesslist\ToolCommand\ToolCommand\obj\Debug\ToolCommand.csproj.GenerateResource.Cache
+D:\Data\Work\รวม Code Manament\Bussinesslist\ToolCommand\ToolCommand\obj\Debug\ToolCommand.dll
+D:\Data\Work\รวม Code Manament\Bussinesslist\ToolCommand\ToolCommand\obj\Debug\ToolCommand.pdb

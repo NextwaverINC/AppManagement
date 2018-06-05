@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MainProgram">
+</Property><Property Name="Solution File" Value="D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\MainProgram.sln">
+</Property><Property Name="Date" Value="26 เมษายน 2010">
+</Property><Property Name="Time" Value="17:01:41">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Control Version.csproj" Description="Project file successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Control Version.csproj">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\ControlVersion.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\ControlVersion.cs">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Program.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Program.cs">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Properties\Settings.settings" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\XMLSQL.xml" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\XMLSQL.xml">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Properties\Resources.resx" Description="File successfully backed up as D:\Data\Work\รวม Code Manament\Bussinesslist\MainProgram\Backup3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Control Version.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Control Version" Source="..\ControlVersion\Control Version\Control Version.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Control Version" Source="..\ControlVersion\Control Version\Control Version.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
